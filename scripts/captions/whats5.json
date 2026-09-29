@@ -1,0 +1,324 @@
+[
+  {
+    "text": "New",
+    "startMs": 3320,
+    "endMs": 3740,
+    "timestampMs": 3530,
+    "confidence": null
+  },
+  {
+    "text": " skills.",
+    "startMs": 3740,
+    "endMs": 4600,
+    "timestampMs": 4170,
+    "confidence": null
+  },
+  {
+    "text": " We",
+    "startMs": 4720,
+    "endMs": 4960,
+    "timestampMs": 4840,
+    "confidence": null
+  },
+  {
+    "text": " looked",
+    "startMs": 4960,
+    "endMs": 5260,
+    "timestampMs": 5110,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 5260,
+    "endMs": 5460,
+    "timestampMs": 5360,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 5460,
+    "endMs": 5580,
+    "timestampMs": 5520,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 5580,
+    "endMs": 5740,
+    "timestampMs": 5660,
+    "confidence": null
+  },
+  {
+    "text": " not",
+    "startMs": 5740,
+    "endMs": 6060,
+    "timestampMs": 5900,
+    "confidence": null
+  },
+  {
+    "text": " working",
+    "startMs": 6060,
+    "endMs": 6340,
+    "timestampMs": 6200,
+    "confidence": null
+  },
+  {
+    "text": " so",
+    "startMs": 6340,
+    "endMs": 6640,
+    "timestampMs": 6490,
+    "confidence": null
+  },
+  {
+    "text": " well",
+    "startMs": 6640,
+    "endMs": 7100,
+    "timestampMs": 6870,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 7100,
+    "endMs": 7280,
+    "timestampMs": 7190,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 7280,
+    "endMs": 7560,
+    "timestampMs": 7420,
+    "confidence": null
+  },
+  {
+    "text": " wrote",
+    "startMs": 7560,
+    "endMs": 7880,
+    "timestampMs": 7720,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 7880,
+    "endMs": 8220,
+    "timestampMs": 8050,
+    "confidence": null
+  },
+  {
+    "text": " skills",
+    "startMs": 8220,
+    "endMs": 8720,
+    "timestampMs": 8470,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 8720,
+    "endMs": 9720,
+    "timestampMs": 9220,
+    "confidence": null
+  },
+  {
+    "text": " generating",
+    "startMs": 9720,
+    "endMs": 10080,
+    "timestampMs": 9900,
+    "confidence": null
+  },
+  {
+    "text": " voiceovers",
+    "startMs": 10080,
+    "endMs": 10960,
+    "timestampMs": 10520,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 10960,
+    "endMs": 11420,
+    "timestampMs": 11190,
+    "confidence": null
+  },
+  {
+    "text": " 11",
+    "startMs": 11420,
+    "endMs": 11800,
+    "timestampMs": 11610,
+    "confidence": null
+  },
+  {
+    "text": " labs,",
+    "startMs": 11800,
+    "endMs": 12480,
+    "timestampMs": 12140,
+    "confidence": null
+  },
+  {
+    "text": " doing",
+    "startMs": 12660,
+    "endMs": 13200,
+    "timestampMs": 12930,
+    "confidence": null
+  },
+  {
+    "text": " tasks",
+    "startMs": 13200,
+    "endMs": 13500,
+    "timestampMs": 13350,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 13500,
+    "endMs": 13920,
+    "timestampMs": 13710,
+    "confidence": null
+  },
+  {
+    "text": " FFmpeg",
+    "startMs": 13920,
+    "endMs": 14500,
+    "timestampMs": 14210,
+    "confidence": null
+  },
+  {
+    "text": " such",
+    "startMs": 14500,
+    "endMs": 14740,
+    "timestampMs": 14620,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 14740,
+    "endMs": 15180,
+    "timestampMs": 14960,
+    "confidence": null
+  },
+  {
+    "text": " silence",
+    "startMs": 15180,
+    "endMs": 15840,
+    "timestampMs": 15510,
+    "confidence": null
+  },
+  {
+    "text": " detection,",
+    "startMs": 15840,
+    "endMs": 16820,
+    "timestampMs": 16330,
+    "confidence": null
+  },
+  {
+    "text": " doing",
+    "startMs": 17020,
+    "endMs": 17400,
+    "timestampMs": 17210,
+    "confidence": null
+  },
+  {
+    "text": " audio",
+    "startMs": 17400,
+    "endMs": 18140,
+    "timestampMs": 17770,
+    "confidence": null
+  },
+  {
+    "text": " visualization",
+    "startMs": 18140,
+    "endMs": 19100,
+    "timestampMs": 18620,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 19100,
+    "endMs": 19800,
+    "timestampMs": 19450,
+    "confidence": null
+  },
+  {
+    "text": " exporting",
+    "startMs": 19800,
+    "endMs": 20700,
+    "timestampMs": 20250,
+    "confidence": null
+  },
+  {
+    "text": " transparent",
+    "startMs": 20700,
+    "endMs": 21440,
+    "timestampMs": 21070,
+    "confidence": null
+  },
+  {
+    "text": " videos.",
+    "startMs": 21440,
+    "endMs": 21840,
+    "timestampMs": 21640,
+    "confidence": null
+  },
+  {
+    "text": " All",
+    "startMs": 22360,
+    "endMs": 22560,
+    "timestampMs": 22460,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 22560,
+    "endMs": 22760,
+    "timestampMs": 22660,
+    "confidence": null
+  },
+  {
+    "text": " these",
+    "startMs": 22760,
+    "endMs": 23220,
+    "timestampMs": 22990,
+    "confidence": null
+  },
+  {
+    "text": " tasks",
+    "startMs": 23220,
+    "endMs": 23500,
+    "timestampMs": 23360,
+    "confidence": null
+  },
+  {
+    "text": " should",
+    "startMs": 23500,
+    "endMs": 23920,
+    "timestampMs": 23710,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 23920,
+    "endMs": 24520,
+    "timestampMs": 24220,
+    "confidence": null
+  },
+  {
+    "text": " work",
+    "startMs": 24520,
+    "endMs": 24860,
+    "timestampMs": 24690,
+    "confidence": null
+  },
+  {
+    "text": " much",
+    "startMs": 24860,
+    "endMs": 25320,
+    "timestampMs": 25090,
+    "confidence": null
+  },
+  {
+    "text": " smoother.",
+    "startMs": 25320,
+    "endMs": 26000,
+    "timestampMs": 25660,
+    "confidence": null
+  }
+]

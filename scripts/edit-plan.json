@@ -1,0 +1,4620 @@
+{
+  "whats1": {
+    "sourceSpeech": [
+      1.325125,
+      4.569042
+    ],
+    "durationInFrames": 112,
+    "segments": [
+      {
+        "trimBefore": 35,
+        "durationInFrames": 112,
+        "outStart": 0,
+        "text": "Here are some of the things that we recently improved in Remotion."
+      }
+    ],
+    "captions": [
+      {
+        "text": "Here",
+        "startMs": 158,
+        "endMs": 340,
+        "timestampMs": 249,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 340,
+        "endMs": 523,
+        "timestampMs": 432,
+        "confidence": null
+      },
+      {
+        "text": " some",
+        "startMs": 523,
+        "endMs": 650,
+        "timestampMs": 587,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 650,
+        "endMs": 778,
+        "timestampMs": 714,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 778,
+        "endMs": 960,
+        "timestampMs": 869,
+        "confidence": null
+      },
+      {
+        "text": " things",
+        "startMs": 960,
+        "endMs": 1142,
+        "timestampMs": 1051,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 1142,
+        "endMs": 1288,
+        "timestampMs": 1215,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 1288,
+        "endMs": 1707,
+        "timestampMs": 1498,
+        "confidence": null
+      },
+      {
+        "text": " recently",
+        "startMs": 1707,
+        "endMs": 2181,
+        "timestampMs": 1944,
+        "confidence": null
+      },
+      {
+        "text": " improved",
+        "startMs": 2181,
+        "endMs": 2418,
+        "timestampMs": 2300,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 2418,
+        "endMs": 2637,
+        "timestampMs": 2528,
+        "confidence": null
+      },
+      {
+        "text": " Remotion.",
+        "startMs": 2637,
+        "endMs": 3402,
+        "timestampMs": 3020,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats2": {
+    "sourceSpeech": [
+      6.521458,
+      30.907187
+    ],
+    "durationInFrames": 720,
+    "segments": [
+      {
+        "trimBefore": 191,
+        "durationInFrames": 224,
+        "outStart": 0,
+        "text": "First up, light leaks. They are a common effect in video editing and now we have a native component for it."
+      },
+      {
+        "trimBefore": 435,
+        "durationInFrames": 226,
+        "outStart": 224,
+        "text": "They are procedurally generated so there are an infinite amount of variations for it and also they can assume any color."
+      },
+      {
+        "trimBefore": 671,
+        "durationInFrames": 270,
+        "outStart": 450,
+        "text": "You can use the light leak components directly or use the new accompanying skill to make a stylish transition between scenes."
+      }
+    ],
+    "captions": [
+      {
+        "text": "First",
+        "startMs": 154,
+        "endMs": 491,
+        "timestampMs": 323,
+        "confidence": null
+      },
+      {
+        "text": " up,",
+        "startMs": 491,
+        "endMs": 772,
+        "timestampMs": 632,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " light",
+        "startMs": 959,
+        "endMs": 1333,
+        "timestampMs": 1146,
+        "confidence": null
+      },
+      {
+        "text": " leaks.",
+        "startMs": 1333,
+        "endMs": 1633,
+        "timestampMs": 1483,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " They",
+        "startMs": 1633,
+        "endMs": 1913,
+        "timestampMs": 1773,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 1913,
+        "endMs": 2157,
+        "timestampMs": 2035,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 2157,
+        "endMs": 2418,
+        "timestampMs": 2288,
+        "confidence": null
+      },
+      {
+        "text": " common",
+        "startMs": 2418,
+        "endMs": 2680,
+        "timestampMs": 2549,
+        "confidence": null
+      },
+      {
+        "text": " effect",
+        "startMs": 2680,
+        "endMs": 2980,
+        "timestampMs": 2830,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 2980,
+        "endMs": 3298,
+        "timestampMs": 3139,
+        "confidence": null
+      },
+      {
+        "text": " video",
+        "startMs": 3298,
+        "endMs": 3635,
+        "timestampMs": 3467,
+        "confidence": null
+      },
+      {
+        "text": " editing",
+        "startMs": 3635,
+        "endMs": 3915,
+        "timestampMs": 3775,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 3915,
+        "endMs": 4252,
+        "timestampMs": 4084,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 4252,
+        "endMs": 4757,
+        "timestampMs": 4505,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 5185,
+        "endMs": 5418,
+        "timestampMs": 5302,
+        "confidence": null
+      },
+      {
+        "text": " have",
+        "startMs": 5418,
+        "endMs": 5670,
+        "timestampMs": 5544,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 5670,
+        "endMs": 6064,
+        "timestampMs": 5867,
+        "confidence": null
+      },
+      {
+        "text": " native",
+        "startMs": 6064,
+        "endMs": 6602,
+        "timestampMs": 6333,
+        "confidence": null
+      },
+      {
+        "text": " component",
+        "startMs": 6602,
+        "endMs": 6907,
+        "timestampMs": 6755,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 6907,
+        "endMs": 7158,
+        "timestampMs": 7033,
+        "confidence": null
+      },
+      {
+        "text": " it.",
+        "startMs": 7158,
+        "endMs": 7302,
+        "timestampMs": 7230,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " They",
+        "startMs": 7550,
+        "endMs": 7785,
+        "timestampMs": 7668,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 7785,
+        "endMs": 8056,
+        "timestampMs": 7921,
+        "confidence": null
+      },
+      {
+        "text": " procedurally",
+        "startMs": 8056,
+        "endMs": 8779,
+        "timestampMs": 8418,
+        "confidence": null
+      },
+      {
+        "text": " generated",
+        "startMs": 8779,
+        "endMs": 8995,
+        "timestampMs": 8887,
+        "confidence": null
+      },
+      {
+        "text": " so",
+        "startMs": 8995,
+        "endMs": 9194,
+        "timestampMs": 9095,
+        "confidence": null
+      },
+      {
+        "text": " there",
+        "startMs": 9194,
+        "endMs": 9519,
+        "timestampMs": 9357,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 9519,
+        "endMs": 9808,
+        "timestampMs": 9664,
+        "confidence": null
+      },
+      {
+        "text": " an",
+        "startMs": 9808,
+        "endMs": 10206,
+        "timestampMs": 10007,
+        "confidence": null
+      },
+      {
+        "text": " infinite",
+        "startMs": 10206,
+        "endMs": 10531,
+        "timestampMs": 10369,
+        "confidence": null
+      },
+      {
+        "text": " amount",
+        "startMs": 10531,
+        "endMs": 10747,
+        "timestampMs": 10639,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 10747,
+        "endMs": 11163,
+        "timestampMs": 10955,
+        "confidence": null
+      },
+      {
+        "text": " variations",
+        "startMs": 11163,
+        "endMs": 11470,
+        "timestampMs": 11317,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 11470,
+        "endMs": 11614,
+        "timestampMs": 11542,
+        "confidence": null
+      },
+      {
+        "text": " it",
+        "startMs": 11614,
+        "endMs": 11795,
+        "timestampMs": 11705,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 11795,
+        "endMs": 12102,
+        "timestampMs": 11949,
+        "confidence": null
+      },
+      {
+        "text": " also",
+        "startMs": 12102,
+        "endMs": 12319,
+        "timestampMs": 12211,
+        "confidence": null
+      },
+      {
+        "text": " they",
+        "startMs": 12319,
+        "endMs": 12481,
+        "timestampMs": 12400,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 12481,
+        "endMs": 12897,
+        "timestampMs": 12689,
+        "confidence": null
+      },
+      {
+        "text": " assume",
+        "startMs": 12897,
+        "endMs": 13637,
+        "timestampMs": 13267,
+        "confidence": null
+      },
+      {
+        "text": " any",
+        "startMs": 14120,
+        "endMs": 14620,
+        "timestampMs": 14370,
+        "confidence": null
+      },
+      {
+        "text": " color.",
+        "startMs": 14620,
+        "endMs": 14845,
+        "timestampMs": 14733,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " You",
+        "startMs": 15081,
+        "endMs": 15191,
+        "timestampMs": 15136,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 15191,
+        "endMs": 15317,
+        "timestampMs": 15254,
+        "confidence": null
+      },
+      {
+        "text": " use",
+        "startMs": 15317,
+        "endMs": 15475,
+        "timestampMs": 15396,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 15475,
+        "endMs": 15633,
+        "timestampMs": 15554,
+        "confidence": null
+      },
+      {
+        "text": " light",
+        "startMs": 15633,
+        "endMs": 15839,
+        "timestampMs": 15736,
+        "confidence": null
+      },
+      {
+        "text": " leak",
+        "startMs": 15839,
+        "endMs": 16281,
+        "timestampMs": 16060,
+        "confidence": null
+      },
+      {
+        "text": " components",
+        "startMs": 16281,
+        "endMs": 16897,
+        "timestampMs": 16589,
+        "confidence": null
+      },
+      {
+        "text": " directly",
+        "startMs": 16897,
+        "endMs": 16957,
+        "timestampMs": 16927,
+        "confidence": null
+      },
+      {
+        "text": " or",
+        "startMs": 17292,
+        "endMs": 17529,
+        "timestampMs": 17411,
+        "confidence": null
+      },
+      {
+        "text": " use",
+        "startMs": 17529,
+        "endMs": 17655,
+        "timestampMs": 17592,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 17655,
+        "endMs": 17971,
+        "timestampMs": 17813,
+        "confidence": null
+      },
+      {
+        "text": " new",
+        "startMs": 17971,
+        "endMs": 18713,
+        "timestampMs": 18342,
+        "confidence": null
+      },
+      {
+        "text": " accompanying",
+        "startMs": 19067,
+        "endMs": 20819,
+        "timestampMs": 19943,
+        "confidence": null
+      },
+      {
+        "text": " skill",
+        "startMs": 20819,
+        "endMs": 20879,
+        "timestampMs": 20849,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 21316,
+        "endMs": 21433,
+        "timestampMs": 21375,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 21433,
+        "endMs": 21551,
+        "timestampMs": 21492,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 21551,
+        "endMs": 21760,
+        "timestampMs": 21656,
+        "confidence": null
+      },
+      {
+        "text": " stylish",
+        "startMs": 21760,
+        "endMs": 22153,
+        "timestampMs": 21957,
+        "confidence": null
+      },
+      {
+        "text": " transition",
+        "startMs": 22153,
+        "endMs": 22493,
+        "timestampMs": 22323,
+        "confidence": null
+      },
+      {
+        "text": " between",
+        "startMs": 22493,
+        "endMs": 22847,
+        "timestampMs": 22670,
+        "confidence": null
+      },
+      {
+        "text": " scenes.",
+        "startMs": 22847,
+        "endMs": 23540,
+        "timestampMs": 23194,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats3": {
+    "sourceSpeech": [
+      3.273333,
+      43.870646
+    ],
+    "durationInFrames": 1152,
+    "segments": [
+      {
+        "trimBefore": 94,
+        "durationInFrames": 154,
+        "outStart": 0,
+        "text": "Sound effects. Unfortunately, AI is pretty bad at finding them online,"
+      },
+      {
+        "trimBefore": 256,
+        "durationInFrames": 256,
+        "outStart": 154,
+        "text": "so we are making our own library of sound effects that anybody can use for free with no attribution required."
+      },
+      {
+        "trimBefore": 533,
+        "durationInFrames": 114,
+        "outStart": 410,
+        "text": "We host them on our domain, you can just hotlink the sound effects"
+      },
+      {
+        "trimBefore": 658,
+        "durationInFrames": 136,
+        "outStart": 524,
+        "text": "and we also make sure that all the sound effects have the same loudness"
+      },
+      {
+        "trimBefore": 805,
+        "durationInFrames": 68,
+        "outStart": 660,
+        "text": "to get that standardized as well."
+      },
+      {
+        "trimBefore": 894,
+        "durationInFrames": 373,
+        "outStart": 728,
+        "text": "For now we start with only seven sound effects but we are looking to add more so if you know how to source good sound effects that we can make freely available to anybody"
+      },
+      {
+        "trimBefore": 1279,
+        "durationInFrames": 51,
+        "outStart": 1101,
+        "text": "then please let us know."
+      }
+    ],
+    "captions": [
+      {
+        "text": "Sound",
+        "startMs": 140,
+        "endMs": 316,
+        "timestampMs": 228,
+        "confidence": null
+      },
+      {
+        "text": " effects.",
+        "startMs": 316,
+        "endMs": 1028,
+        "timestampMs": 672,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " Unfortunately,",
+        "startMs": 1310,
+        "endMs": 1674,
+        "timestampMs": 1492,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " AI",
+        "startMs": 2015,
+        "endMs": 2425,
+        "timestampMs": 2220,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 2425,
+        "endMs": 2698,
+        "timestampMs": 2562,
+        "confidence": null
+      },
+      {
+        "text": " pretty",
+        "startMs": 2698,
+        "endMs": 2994,
+        "timestampMs": 2846,
+        "confidence": null
+      },
+      {
+        "text": " bad",
+        "startMs": 2994,
+        "endMs": 3245,
+        "timestampMs": 3120,
+        "confidence": null
+      },
+      {
+        "text": " at",
+        "startMs": 3245,
+        "endMs": 3677,
+        "timestampMs": 3461,
+        "confidence": null
+      },
+      {
+        "text": " finding",
+        "startMs": 3677,
+        "endMs": 4041,
+        "timestampMs": 3859,
+        "confidence": null
+      },
+      {
+        "text": " them",
+        "startMs": 4041,
+        "endMs": 4542,
+        "timestampMs": 4292,
+        "confidence": null
+      },
+      {
+        "text": " online,",
+        "startMs": 4542,
+        "endMs": 5020,
+        "timestampMs": 4781,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " so",
+        "startMs": 5222,
+        "endMs": 5622,
+        "timestampMs": 5422,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 5921,
+        "endMs": 6025,
+        "timestampMs": 5973,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 6025,
+        "endMs": 6336,
+        "timestampMs": 6181,
+        "confidence": null
+      },
+      {
+        "text": " making",
+        "startMs": 6336,
+        "endMs": 6612,
+        "timestampMs": 6474,
+        "confidence": null
+      },
+      {
+        "text": " our",
+        "startMs": 6612,
+        "endMs": 7043,
+        "timestampMs": 6828,
+        "confidence": null
+      },
+      {
+        "text": " own",
+        "startMs": 7043,
+        "endMs": 7492,
+        "timestampMs": 7268,
+        "confidence": null
+      },
+      {
+        "text": " library",
+        "startMs": 7492,
+        "endMs": 7768,
+        "timestampMs": 7630,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 7768,
+        "endMs": 7992,
+        "timestampMs": 7880,
+        "confidence": null
+      },
+      {
+        "text": " sound",
+        "startMs": 7992,
+        "endMs": 8320,
+        "timestampMs": 8156,
+        "confidence": null
+      },
+      {
+        "text": " effects",
+        "startMs": 8320,
+        "endMs": 8803,
+        "timestampMs": 8562,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 9218,
+        "endMs": 9352,
+        "timestampMs": 9285,
+        "confidence": null
+      },
+      {
+        "text": " anybody",
+        "startMs": 9559,
+        "endMs": 9838,
+        "timestampMs": 9699,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 9838,
+        "endMs": 10156,
+        "timestampMs": 9997,
+        "confidence": null
+      },
+      {
+        "text": " use",
+        "startMs": 10156,
+        "endMs": 10514,
+        "timestampMs": 10335,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 10777,
+        "endMs": 11138,
+        "timestampMs": 10958,
+        "confidence": null
+      },
+      {
+        "text": " free",
+        "startMs": 11138,
+        "endMs": 11439,
+        "timestampMs": 11289,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 11439,
+        "endMs": 11780,
+        "timestampMs": 11610,
+        "confidence": null
+      },
+      {
+        "text": " no",
+        "startMs": 11780,
+        "endMs": 12563,
+        "timestampMs": 12172,
+        "confidence": null
+      },
+      {
+        "text": " attribution",
+        "startMs": 12563,
+        "endMs": 13326,
+        "timestampMs": 12945,
+        "confidence": null
+      },
+      {
+        "text": " required.",
+        "startMs": 13326,
+        "endMs": 13506,
+        "timestampMs": 13416,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " We",
+        "startMs": 13760,
+        "endMs": 13934,
+        "timestampMs": 13847,
+        "confidence": null
+      },
+      {
+        "text": " host",
+        "startMs": 13934,
+        "endMs": 14074,
+        "timestampMs": 14004,
+        "confidence": null
+      },
+      {
+        "text": " them",
+        "startMs": 14074,
+        "endMs": 14231,
+        "timestampMs": 14153,
+        "confidence": null
+      },
+      {
+        "text": " on",
+        "startMs": 14231,
+        "endMs": 14616,
+        "timestampMs": 14424,
+        "confidence": null
+      },
+      {
+        "text": " our",
+        "startMs": 14616,
+        "endMs": 14948,
+        "timestampMs": 14782,
+        "confidence": null
+      },
+      {
+        "text": " domain,",
+        "startMs": 14948,
+        "endMs": 15140,
+        "timestampMs": 15044,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " you",
+        "startMs": 15332,
+        "endMs": 15472,
+        "timestampMs": 15402,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 15472,
+        "endMs": 15647,
+        "timestampMs": 15560,
+        "confidence": null
+      },
+      {
+        "text": " just",
+        "startMs": 15647,
+        "endMs": 15961,
+        "timestampMs": 15804,
+        "confidence": null
+      },
+      {
+        "text": " hotlink",
+        "startMs": 15961,
+        "endMs": 16276,
+        "timestampMs": 16119,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 16276,
+        "endMs": 16451,
+        "timestampMs": 16364,
+        "confidence": null
+      },
+      {
+        "text": " sound",
+        "startMs": 16451,
+        "endMs": 16818,
+        "timestampMs": 16635,
+        "confidence": null
+      },
+      {
+        "text": " effects",
+        "startMs": 16818,
+        "endMs": 17377,
+        "timestampMs": 17098,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 17545,
+        "endMs": 17670,
+        "timestampMs": 17608,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 17670,
+        "endMs": 17992,
+        "timestampMs": 17831,
+        "confidence": null
+      },
+      {
+        "text": " also",
+        "startMs": 17992,
+        "endMs": 18242,
+        "timestampMs": 18117,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 18242,
+        "endMs": 18528,
+        "timestampMs": 18385,
+        "confidence": null
+      },
+      {
+        "text": " sure",
+        "startMs": 18528,
+        "endMs": 18992,
+        "timestampMs": 18760,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 18992,
+        "endMs": 19314,
+        "timestampMs": 19153,
+        "confidence": null
+      },
+      {
+        "text": " all",
+        "startMs": 19314,
+        "endMs": 19456,
+        "timestampMs": 19385,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 19456,
+        "endMs": 19599,
+        "timestampMs": 19528,
+        "confidence": null
+      },
+      {
+        "text": " sound",
+        "startMs": 19599,
+        "endMs": 19849,
+        "timestampMs": 19724,
+        "confidence": null
+      },
+      {
+        "text": " effects",
+        "startMs": 19849,
+        "endMs": 20046,
+        "timestampMs": 19948,
+        "confidence": null
+      },
+      {
+        "text": " have",
+        "startMs": 20046,
+        "endMs": 20171,
+        "timestampMs": 20109,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 20224,
+        "endMs": 20284,
+        "timestampMs": 20254,
+        "confidence": null
+      },
+      {
+        "text": " same",
+        "startMs": 20635,
+        "endMs": 21082,
+        "timestampMs": 20859,
+        "confidence": null
+      },
+      {
+        "text": " loudness",
+        "startMs": 21082,
+        "endMs": 21903,
+        "timestampMs": 21493,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 22096,
+        "endMs": 22220,
+        "timestampMs": 22158,
+        "confidence": null
+      },
+      {
+        "text": " get",
+        "startMs": 22220,
+        "endMs": 22353,
+        "timestampMs": 22287,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 22353,
+        "endMs": 22628,
+        "timestampMs": 22491,
+        "confidence": null
+      },
+      {
+        "text": " standardized",
+        "startMs": 22869,
+        "endMs": 23280,
+        "timestampMs": 23075,
+        "confidence": null
+      },
+      {
+        "text": " as",
+        "startMs": 23280,
+        "endMs": 23508,
+        "timestampMs": 23394,
+        "confidence": null
+      },
+      {
+        "text": " well.",
+        "startMs": 23508,
+        "endMs": 24102,
+        "timestampMs": 23805,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " For",
+        "startMs": 24345,
+        "endMs": 24617,
+        "timestampMs": 24481,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 24617,
+        "endMs": 24852,
+        "timestampMs": 24735,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 24852,
+        "endMs": 25088,
+        "timestampMs": 24970,
+        "confidence": null
+      },
+      {
+        "text": " start",
+        "startMs": 25088,
+        "endMs": 25269,
+        "timestampMs": 25179,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 25269,
+        "endMs": 25631,
+        "timestampMs": 25450,
+        "confidence": null
+      },
+      {
+        "text": " only",
+        "startMs": 25631,
+        "endMs": 26011,
+        "timestampMs": 25821,
+        "confidence": null
+      },
+      {
+        "text": " seven",
+        "startMs": 26011,
+        "endMs": 26071,
+        "timestampMs": 26041,
+        "confidence": null
+      },
+      {
+        "text": " sound",
+        "startMs": 26265,
+        "endMs": 26537,
+        "timestampMs": 26401,
+        "confidence": null
+      },
+      {
+        "text": " effects",
+        "startMs": 26537,
+        "endMs": 26790,
+        "timestampMs": 26664,
+        "confidence": null
+      },
+      {
+        "text": " but",
+        "startMs": 26790,
+        "endMs": 26953,
+        "timestampMs": 26872,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 26953,
+        "endMs": 27153,
+        "timestampMs": 27053,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 27153,
+        "endMs": 27443,
+        "timestampMs": 27298,
+        "confidence": null
+      },
+      {
+        "text": " looking",
+        "startMs": 27443,
+        "endMs": 27696,
+        "timestampMs": 27570,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 27696,
+        "endMs": 28040,
+        "timestampMs": 27868,
+        "confidence": null
+      },
+      {
+        "text": " add",
+        "startMs": 28040,
+        "endMs": 28384,
+        "timestampMs": 28212,
+        "confidence": null
+      },
+      {
+        "text": " more",
+        "startMs": 28384,
+        "endMs": 28928,
+        "timestampMs": 28656,
+        "confidence": null
+      },
+      {
+        "text": " so",
+        "startMs": 29374,
+        "endMs": 29568,
+        "timestampMs": 29471,
+        "confidence": null
+      },
+      {
+        "text": " if",
+        "startMs": 29768,
+        "endMs": 30107,
+        "timestampMs": 29938,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 30107,
+        "endMs": 30701,
+        "timestampMs": 30404,
+        "confidence": null
+      },
+      {
+        "text": " know",
+        "startMs": 30701,
+        "endMs": 31006,
+        "timestampMs": 30854,
+        "confidence": null
+      },
+      {
+        "text": " how",
+        "startMs": 31006,
+        "endMs": 31227,
+        "timestampMs": 31117,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 31227,
+        "endMs": 31481,
+        "timestampMs": 31354,
+        "confidence": null
+      },
+      {
+        "text": " source",
+        "startMs": 31481,
+        "endMs": 31956,
+        "timestampMs": 31719,
+        "confidence": null
+      },
+      {
+        "text": " good",
+        "startMs": 32451,
+        "endMs": 32697,
+        "timestampMs": 32574,
+        "confidence": null
+      },
+      {
+        "text": " sound",
+        "startMs": 32943,
+        "endMs": 33327,
+        "timestampMs": 33135,
+        "confidence": null
+      },
+      {
+        "text": " effects",
+        "startMs": 33327,
+        "endMs": 33834,
+        "timestampMs": 33581,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 34297,
+        "endMs": 34444,
+        "timestampMs": 34371,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 34444,
+        "endMs": 34591,
+        "timestampMs": 34518,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 34591,
+        "endMs": 34771,
+        "timestampMs": 34681,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 34771,
+        "endMs": 35065,
+        "timestampMs": 34918,
+        "confidence": null
+      },
+      {
+        "text": " freely",
+        "startMs": 35065,
+        "endMs": 35473,
+        "timestampMs": 35269,
+        "confidence": null
+      },
+      {
+        "text": " available",
+        "startMs": 35473,
+        "endMs": 35669,
+        "timestampMs": 35571,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 35669,
+        "endMs": 36012,
+        "timestampMs": 35841,
+        "confidence": null
+      },
+      {
+        "text": " anybody",
+        "startMs": 36012,
+        "endMs": 36617,
+        "timestampMs": 36315,
+        "confidence": null
+      },
+      {
+        "text": " then",
+        "startMs": 36769,
+        "endMs": 36915,
+        "timestampMs": 36842,
+        "confidence": null
+      },
+      {
+        "text": " please",
+        "startMs": 36915,
+        "endMs": 37061,
+        "timestampMs": 36988,
+        "confidence": null
+      },
+      {
+        "text": " let",
+        "startMs": 37061,
+        "endMs": 37121,
+        "timestampMs": 37091,
+        "confidence": null
+      },
+      {
+        "text": " us",
+        "startMs": 37112,
+        "endMs": 37215,
+        "timestampMs": 37164,
+        "confidence": null
+      },
+      {
+        "text": " know.",
+        "startMs": 37215,
+        "endMs": 37938,
+        "timestampMs": 37577,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats4": {
+    "sourceSpeech": [
+      2.241042,
+      38.800229
+    ],
+    "durationInFrames": 1040,
+    "segments": [
+      {
+        "trimBefore": 63,
+        "durationInFrames": 59,
+        "outStart": 0,
+        "text": "Render videos on Vercel."
+      },
+      {
+        "trimBefore": 134,
+        "durationInFrames": 178,
+        "outStart": 59,
+        "text": "We work together with Vercel to make rendering on their platform possible and super smooth."
+      },
+      {
+        "trimBefore": 328,
+        "durationInFrames": 246,
+        "outStart": 237,
+        "text": "There's a new package called @remotion/vercel that allows you to create Remotion rendering instances using Vercel Sandbox"
+      },
+      {
+        "trimBefore": 585,
+        "durationInFrames": 73,
+        "outStart": 483,
+        "text": "and also we have a starter template"
+      },
+      {
+        "trimBefore": 667,
+        "durationInFrames": 80,
+        "outStart": 556,
+        "text": "where everything is set up out of the box."
+      },
+      {
+        "trimBefore": 762,
+        "durationInFrames": 168,
+        "outStart": 636,
+        "text": "This is now a first-class server-side rendering solution in Remotion"
+      },
+      {
+        "trimBefore": 944,
+        "durationInFrames": 236,
+        "outStart": 804,
+        "text": "and it is one of the easiest way to set up server-side rendering. A small tutorial about this is coming out soon."
+      }
+    ],
+    "captions": [
+      {
+        "text": "Render",
+        "startMs": 141,
+        "endMs": 566,
+        "timestampMs": 354,
+        "confidence": null
+      },
+      {
+        "text": " videos",
+        "startMs": 566,
+        "endMs": 1015,
+        "timestampMs": 791,
+        "confidence": null
+      },
+      {
+        "text": " on",
+        "startMs": 1015,
+        "endMs": 1298,
+        "timestampMs": 1157,
+        "confidence": null
+      },
+      {
+        "text": " Vercel.",
+        "startMs": 1298,
+        "endMs": 1794,
+        "timestampMs": 1546,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " We",
+        "startMs": 2036,
+        "endMs": 2230,
+        "timestampMs": 2133,
+        "confidence": null
+      },
+      {
+        "text": " work",
+        "startMs": 2230,
+        "endMs": 2529,
+        "timestampMs": 2380,
+        "confidence": null
+      },
+      {
+        "text": " together",
+        "startMs": 2529,
+        "endMs": 2863,
+        "timestampMs": 2696,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 2863,
+        "endMs": 3251,
+        "timestampMs": 3057,
+        "confidence": null
+      },
+      {
+        "text": " Vercel",
+        "startMs": 3251,
+        "endMs": 3515,
+        "timestampMs": 3383,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 3515,
+        "endMs": 3779,
+        "timestampMs": 3647,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 3779,
+        "endMs": 4166,
+        "timestampMs": 3973,
+        "confidence": null
+      },
+      {
+        "text": " rendering",
+        "startMs": 4166,
+        "endMs": 4378,
+        "timestampMs": 4272,
+        "confidence": null
+      },
+      {
+        "text": " on",
+        "startMs": 4378,
+        "endMs": 4571,
+        "timestampMs": 4475,
+        "confidence": null
+      },
+      {
+        "text": " their",
+        "startMs": 4571,
+        "endMs": 5064,
+        "timestampMs": 4818,
+        "confidence": null
+      },
+      {
+        "text": " platform",
+        "startMs": 5064,
+        "endMs": 5769,
+        "timestampMs": 5417,
+        "confidence": null
+      },
+      {
+        "text": " possible",
+        "startMs": 6000,
+        "endMs": 6548,
+        "timestampMs": 6274,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 6548,
+        "endMs": 6951,
+        "timestampMs": 6750,
+        "confidence": null
+      },
+      {
+        "text": " super",
+        "startMs": 6951,
+        "endMs": 7261,
+        "timestampMs": 7106,
+        "confidence": null
+      },
+      {
+        "text": " smooth.",
+        "startMs": 7261,
+        "endMs": 7755,
+        "timestampMs": 7508,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " There's",
+        "startMs": 7975,
+        "endMs": 8075,
+        "timestampMs": 8025,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 8075,
+        "endMs": 8191,
+        "timestampMs": 8133,
+        "confidence": null
+      },
+      {
+        "text": " new",
+        "startMs": 8191,
+        "endMs": 8473,
+        "timestampMs": 8332,
+        "confidence": null
+      },
+      {
+        "text": " package",
+        "startMs": 8473,
+        "endMs": 8889,
+        "timestampMs": 8681,
+        "confidence": null
+      },
+      {
+        "text": " called",
+        "startMs": 8889,
+        "endMs": 9271,
+        "timestampMs": 9080,
+        "confidence": null
+      },
+      {
+        "text": " @remotion/vercel",
+        "startMs": 9271,
+        "endMs": 10135,
+        "timestampMs": 9703,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 10135,
+        "endMs": 10351,
+        "timestampMs": 10243,
+        "confidence": null
+      },
+      {
+        "text": " allows",
+        "startMs": 10351,
+        "endMs": 10484,
+        "timestampMs": 10418,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 10484,
+        "endMs": 10617,
+        "timestampMs": 10551,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 10617,
+        "endMs": 10949,
+        "timestampMs": 10783,
+        "confidence": null
+      },
+      {
+        "text": " create",
+        "startMs": 10949,
+        "endMs": 11597,
+        "timestampMs": 11273,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 12074,
+        "endMs": 12688,
+        "timestampMs": 12381,
+        "confidence": null
+      },
+      {
+        "text": " rendering",
+        "startMs": 12688,
+        "endMs": 13376,
+        "timestampMs": 13032,
+        "confidence": null
+      },
+      {
+        "text": " instances",
+        "startMs": 13376,
+        "endMs": 13488,
+        "timestampMs": 13432,
+        "confidence": null
+      },
+      {
+        "text": " using",
+        "startMs": 13897,
+        "endMs": 14362,
+        "timestampMs": 14130,
+        "confidence": null
+      },
+      {
+        "text": " Vercel",
+        "startMs": 14362,
+        "endMs": 15255,
+        "timestampMs": 14809,
+        "confidence": null
+      },
+      {
+        "text": " Sandbox",
+        "startMs": 15255,
+        "endMs": 15999,
+        "timestampMs": 15627,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 16191,
+        "endMs": 16460,
+        "timestampMs": 16326,
+        "confidence": null
+      },
+      {
+        "text": " also",
+        "startMs": 16460,
+        "endMs": 16618,
+        "timestampMs": 16539,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 16618,
+        "endMs": 16808,
+        "timestampMs": 16713,
+        "confidence": null
+      },
+      {
+        "text": " have",
+        "startMs": 16808,
+        "endMs": 17094,
+        "timestampMs": 16951,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 17094,
+        "endMs": 17442,
+        "timestampMs": 17268,
+        "confidence": null
+      },
+      {
+        "text": " starter",
+        "startMs": 17442,
+        "endMs": 17870,
+        "timestampMs": 17656,
+        "confidence": null
+      },
+      {
+        "text": " template",
+        "startMs": 17870,
+        "endMs": 18424,
+        "timestampMs": 18147,
+        "confidence": null
+      },
+      {
+        "text": " where",
+        "startMs": 18630,
+        "endMs": 19039,
+        "timestampMs": 18835,
+        "confidence": null
+      },
+      {
+        "text": " everything",
+        "startMs": 19039,
+        "endMs": 19354,
+        "timestampMs": 19197,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 19354,
+        "endMs": 19448,
+        "timestampMs": 19401,
+        "confidence": null
+      },
+      {
+        "text": " set",
+        "startMs": 19448,
+        "endMs": 19668,
+        "timestampMs": 19558,
+        "confidence": null
+      },
+      {
+        "text": " up",
+        "startMs": 19668,
+        "endMs": 20030,
+        "timestampMs": 19849,
+        "confidence": null
+      },
+      {
+        "text": " out",
+        "startMs": 20442,
+        "endMs": 20540,
+        "timestampMs": 20491,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 20540,
+        "endMs": 20638,
+        "timestampMs": 20589,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 20638,
+        "endMs": 20791,
+        "timestampMs": 20715,
+        "confidence": null
+      },
+      {
+        "text": " box.",
+        "startMs": 20791,
+        "endMs": 21042,
+        "timestampMs": 20917,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " This",
+        "startMs": 21297,
+        "endMs": 21388,
+        "timestampMs": 21343,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 21388,
+        "endMs": 21642,
+        "timestampMs": 21515,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 21642,
+        "endMs": 21915,
+        "timestampMs": 21779,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 21915,
+        "endMs": 22297,
+        "timestampMs": 22106,
+        "confidence": null
+      },
+      {
+        "text": " first-class",
+        "startMs": 22297,
+        "endMs": 22752,
+        "timestampMs": 22525,
+        "confidence": null
+      },
+      {
+        "text": " server-side",
+        "startMs": 23152,
+        "endMs": 23989,
+        "timestampMs": 23571,
+        "confidence": null
+      },
+      {
+        "text": " rendering",
+        "startMs": 23989,
+        "endMs": 24662,
+        "timestampMs": 24326,
+        "confidence": null
+      },
+      {
+        "text": " solution",
+        "startMs": 24662,
+        "endMs": 25207,
+        "timestampMs": 24935,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 25435,
+        "endMs": 25716,
+        "timestampMs": 25576,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 25716,
+        "endMs": 26706,
+        "timestampMs": 26211,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 26872,
+        "endMs": 27098,
+        "timestampMs": 26985,
+        "confidence": null
+      },
+      {
+        "text": " it",
+        "startMs": 27098,
+        "endMs": 27249,
+        "timestampMs": 27174,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 27249,
+        "endMs": 27418,
+        "timestampMs": 27334,
+        "confidence": null
+      },
+      {
+        "text": " one",
+        "startMs": 27418,
+        "endMs": 27531,
+        "timestampMs": 27475,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 27531,
+        "endMs": 27776,
+        "timestampMs": 27654,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 27776,
+        "endMs": 28134,
+        "timestampMs": 27955,
+        "confidence": null
+      },
+      {
+        "text": " easiest",
+        "startMs": 28134,
+        "endMs": 28398,
+        "timestampMs": 28266,
+        "confidence": null
+      },
+      {
+        "text": " way",
+        "startMs": 28398,
+        "endMs": 28567,
+        "timestampMs": 28483,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 28567,
+        "endMs": 28755,
+        "timestampMs": 28661,
+        "confidence": null
+      },
+      {
+        "text": " set",
+        "startMs": 28755,
+        "endMs": 28815,
+        "timestampMs": 28785,
+        "confidence": null
+      },
+      {
+        "text": " up",
+        "startMs": 28925,
+        "endMs": 28985,
+        "timestampMs": 28955,
+        "confidence": null
+      },
+      {
+        "text": " server-side",
+        "startMs": 29151,
+        "endMs": 30262,
+        "timestampMs": 29707,
+        "confidence": null
+      },
+      {
+        "text": " rendering.",
+        "startMs": 30508,
+        "endMs": 31205,
+        "timestampMs": 30857,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " A",
+        "startMs": 31547,
+        "endMs": 31713,
+        "timestampMs": 31630,
+        "confidence": null
+      },
+      {
+        "text": " small",
+        "startMs": 31713,
+        "endMs": 31905,
+        "timestampMs": 31809,
+        "confidence": null
+      },
+      {
+        "text": " tutorial",
+        "startMs": 31905,
+        "endMs": 32122,
+        "timestampMs": 32014,
+        "confidence": null
+      },
+      {
+        "text": " about",
+        "startMs": 32122,
+        "endMs": 32353,
+        "timestampMs": 32238,
+        "confidence": null
+      },
+      {
+        "text": " this",
+        "startMs": 32353,
+        "endMs": 32493,
+        "timestampMs": 32423,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 32493,
+        "endMs": 32660,
+        "timestampMs": 32577,
+        "confidence": null
+      },
+      {
+        "text": " coming",
+        "startMs": 32660,
+        "endMs": 32851,
+        "timestampMs": 32756,
+        "confidence": null
+      },
+      {
+        "text": " out",
+        "startMs": 32851,
+        "endMs": 33133,
+        "timestampMs": 32992,
+        "confidence": null
+      },
+      {
+        "text": " soon.",
+        "startMs": 33145,
+        "endMs": 34133,
+        "timestampMs": 33639,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats5": {
+    "sourceSpeech": [
+      3.040854,
+      25.313875
+    ],
+    "durationInFrames": 608,
+    "segments": [
+      {
+        "trimBefore": 87,
+        "durationInFrames": 34,
+        "outStart": 0,
+        "text": "New skills."
+      },
+      {
+        "trimBefore": 135,
+        "durationInFrames": 129,
+        "outStart": 34,
+        "text": "We looked at what is not working so well and we wrote new skills for"
+      },
+      {
+        "trimBefore": 275,
+        "durationInFrames": 84,
+        "outStart": 163,
+        "text": "generating voiceovers with ElevenLabs,"
+      },
+      {
+        "trimBefore": 372,
+        "durationInFrames": 111,
+        "outStart": 247,
+        "text": "doing tasks with FFmpeg such as silence detection,"
+      },
+      {
+        "trimBefore": 503,
+        "durationInFrames": 144,
+        "outStart": 358,
+        "text": "doing audio visualization and exporting transparent videos."
+      },
+      {
+        "trimBefore": 663,
+        "durationInFrames": 106,
+        "outStart": 502,
+        "text": "All of these tasks should now work much smoother."
+      }
+    ],
+    "captions": [
+      {
+        "text": "New",
+        "startMs": 141,
+        "endMs": 418,
+        "timestampMs": 280,
+        "confidence": null
+      },
+      {
+        "text": " skills.",
+        "startMs": 418,
+        "endMs": 986,
+        "timestampMs": 702,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " We",
+        "startMs": 1222,
+        "endMs": 1420,
+        "timestampMs": 1321,
+        "confidence": null
+      },
+      {
+        "text": " looked",
+        "startMs": 1420,
+        "endMs": 1667,
+        "timestampMs": 1544,
+        "confidence": null
+      },
+      {
+        "text": " at",
+        "startMs": 1667,
+        "endMs": 1832,
+        "timestampMs": 1750,
+        "confidence": null
+      },
+      {
+        "text": " what",
+        "startMs": 1832,
+        "endMs": 1931,
+        "timestampMs": 1882,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 1931,
+        "endMs": 2063,
+        "timestampMs": 1997,
+        "confidence": null
+      },
+      {
+        "text": " not",
+        "startMs": 2063,
+        "endMs": 2327,
+        "timestampMs": 2195,
+        "confidence": null
+      },
+      {
+        "text": " working",
+        "startMs": 2327,
+        "endMs": 2557,
+        "timestampMs": 2442,
+        "confidence": null
+      },
+      {
+        "text": " so",
+        "startMs": 2557,
+        "endMs": 2805,
+        "timestampMs": 2681,
+        "confidence": null
+      },
+      {
+        "text": " well",
+        "startMs": 2805,
+        "endMs": 3184,
+        "timestampMs": 2995,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 3184,
+        "endMs": 3332,
+        "timestampMs": 3258,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 3332,
+        "endMs": 3563,
+        "timestampMs": 3448,
+        "confidence": null
+      },
+      {
+        "text": " wrote",
+        "startMs": 3563,
+        "endMs": 3826,
+        "timestampMs": 3695,
+        "confidence": null
+      },
+      {
+        "text": " new",
+        "startMs": 3826,
+        "endMs": 4107,
+        "timestampMs": 3967,
+        "confidence": null
+      },
+      {
+        "text": " skills",
+        "startMs": 4107,
+        "endMs": 4519,
+        "timestampMs": 4313,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 4519,
+        "endMs": 5343,
+        "timestampMs": 4931,
+        "confidence": null
+      },
+      {
+        "text": " generating",
+        "startMs": 5521,
+        "endMs": 5863,
+        "timestampMs": 5692,
+        "confidence": null
+      },
+      {
+        "text": " voiceovers",
+        "startMs": 5863,
+        "endMs": 6700,
+        "timestampMs": 6282,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 6700,
+        "endMs": 7137,
+        "timestampMs": 6919,
+        "confidence": null
+      },
+      {
+        "text": " ElevenLabs,",
+        "startMs": 7137,
+        "endMs": 8144,
+        "timestampMs": 7641,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " doing",
+        "startMs": 8304,
+        "endMs": 8856,
+        "timestampMs": 8580,
+        "confidence": null
+      },
+      {
+        "text": " tasks",
+        "startMs": 8856,
+        "endMs": 9163,
+        "timestampMs": 9010,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 9163,
+        "endMs": 9592,
+        "timestampMs": 9378,
+        "confidence": null
+      },
+      {
+        "text": " FFmpeg",
+        "startMs": 9592,
+        "endMs": 10185,
+        "timestampMs": 9889,
+        "confidence": null
+      },
+      {
+        "text": " such",
+        "startMs": 10185,
+        "endMs": 10430,
+        "timestampMs": 10308,
+        "confidence": null
+      },
+      {
+        "text": " as",
+        "startMs": 10641,
+        "endMs": 10896,
+        "timestampMs": 10769,
+        "confidence": null
+      },
+      {
+        "text": " silence",
+        "startMs": 10896,
+        "endMs": 11279,
+        "timestampMs": 11088,
+        "confidence": null
+      },
+      {
+        "text": " detection,",
+        "startMs": 11279,
+        "endMs": 11848,
+        "timestampMs": 11564,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " doing",
+        "startMs": 12009,
+        "endMs": 12366,
+        "timestampMs": 12188,
+        "confidence": null
+      },
+      {
+        "text": " audio",
+        "startMs": 12366,
+        "endMs": 13060,
+        "timestampMs": 12713,
+        "confidence": null
+      },
+      {
+        "text": " visualization",
+        "startMs": 13060,
+        "endMs": 13961,
+        "timestampMs": 13511,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 14312,
+        "endMs": 14888,
+        "timestampMs": 14600,
+        "confidence": null
+      },
+      {
+        "text": " exporting",
+        "startMs": 14888,
+        "endMs": 15629,
+        "timestampMs": 15259,
+        "confidence": null
+      },
+      {
+        "text": " transparent",
+        "startMs": 15629,
+        "endMs": 16238,
+        "timestampMs": 15934,
+        "confidence": null
+      },
+      {
+        "text": " videos.",
+        "startMs": 16238,
+        "endMs": 16567,
+        "timestampMs": 16403,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " All",
+        "startMs": 16820,
+        "endMs": 16992,
+        "timestampMs": 16906,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 16992,
+        "endMs": 17164,
+        "timestampMs": 17078,
+        "confidence": null
+      },
+      {
+        "text": " these",
+        "startMs": 17164,
+        "endMs": 17559,
+        "timestampMs": 17362,
+        "confidence": null
+      },
+      {
+        "text": " tasks",
+        "startMs": 17559,
+        "endMs": 17799,
+        "timestampMs": 17679,
+        "confidence": null
+      },
+      {
+        "text": " should",
+        "startMs": 17799,
+        "endMs": 18160,
+        "timestampMs": 17980,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 18160,
+        "endMs": 18675,
+        "timestampMs": 18418,
+        "confidence": null
+      },
+      {
+        "text": " work",
+        "startMs": 18675,
+        "endMs": 18968,
+        "timestampMs": 18822,
+        "confidence": null
+      },
+      {
+        "text": " much",
+        "startMs": 18968,
+        "endMs": 19363,
+        "timestampMs": 19166,
+        "confidence": null
+      },
+      {
+        "text": " smoother.",
+        "startMs": 19363,
+        "endMs": 19947,
+        "timestampMs": 19655,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats6": {
+    "sourceSpeech": [
+      2.318042,
+      31.636687
+    ],
+    "durationInFrames": 832,
+    "segments": [
+      {
+        "trimBefore": 65,
+        "durationInFrames": 71,
+        "outStart": 0,
+        "text": "Client-side rendering progress."
+      },
+      {
+        "trimBefore": 160,
+        "durationInFrames": 258,
+        "outStart": 71,
+        "text": "We are trying to make it possible to render videos purely in the browser and we've made some good progress with this experimental feature."
+      },
+      {
+        "trimBefore": 429,
+        "durationInFrames": 160,
+        "outStart": 329,
+        "text": "It is now possible to queue and track multiple renders in the Remotion Studio,"
+      },
+      {
+        "trimBefore": 600,
+        "durationInFrames": 107,
+        "outStart": 489,
+        "text": "we added support for exporting in new formats,"
+      },
+      {
+        "trimBefore": 718,
+        "durationInFrames": 71,
+        "outStart": 596,
+        "text": "including now audio formats"
+      },
+      {
+        "trimBefore": 800,
+        "durationInFrames": 165,
+        "outStart": 667,
+        "text": "and also these new CSS properties are now supported."
+      }
+    ],
+    "captions": [
+      {
+        "text": "Client-side",
+        "startMs": 151,
+        "endMs": 945,
+        "timestampMs": 548,
+        "confidence": null
+      },
+      {
+        "text": " rendering",
+        "startMs": 945,
+        "endMs": 1415,
+        "timestampMs": 1180,
+        "confidence": null
+      },
+      {
+        "text": " progress.",
+        "startMs": 1415,
+        "endMs": 2209,
+        "timestampMs": 1812,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " We",
+        "startMs": 2436,
+        "endMs": 2546,
+        "timestampMs": 2491,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 2546,
+        "endMs": 2751,
+        "timestampMs": 2649,
+        "confidence": null
+      },
+      {
+        "text": " trying",
+        "startMs": 2751,
+        "endMs": 2909,
+        "timestampMs": 2830,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 2909,
+        "endMs": 3035,
+        "timestampMs": 2972,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 3035,
+        "endMs": 3177,
+        "timestampMs": 3106,
+        "confidence": null
+      },
+      {
+        "text": " it",
+        "startMs": 3177,
+        "endMs": 3461,
+        "timestampMs": 3319,
+        "confidence": null
+      },
+      {
+        "text": " possible",
+        "startMs": 3461,
+        "endMs": 3697,
+        "timestampMs": 3579,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 3697,
+        "endMs": 3981,
+        "timestampMs": 3839,
+        "confidence": null
+      },
+      {
+        "text": " render",
+        "startMs": 3981,
+        "endMs": 4454,
+        "timestampMs": 4218,
+        "confidence": null
+      },
+      {
+        "text": " videos",
+        "startMs": 4454,
+        "endMs": 5053,
+        "timestampMs": 4754,
+        "confidence": null
+      },
+      {
+        "text": " purely",
+        "startMs": 5344,
+        "endMs": 5404,
+        "timestampMs": 5374,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 5720,
+        "endMs": 5898,
+        "timestampMs": 5809,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 5898,
+        "endMs": 6194,
+        "timestampMs": 6046,
+        "confidence": null
+      },
+      {
+        "text": " browser",
+        "startMs": 6194,
+        "endMs": 6650,
+        "timestampMs": 6422,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 6650,
+        "endMs": 6808,
+        "timestampMs": 6729,
+        "confidence": null
+      },
+      {
+        "text": " we've",
+        "startMs": 6808,
+        "endMs": 7065,
+        "timestampMs": 6937,
+        "confidence": null
+      },
+      {
+        "text": " made",
+        "startMs": 7065,
+        "endMs": 7224,
+        "timestampMs": 7145,
+        "confidence": null
+      },
+      {
+        "text": " some",
+        "startMs": 7224,
+        "endMs": 7441,
+        "timestampMs": 7333,
+        "confidence": null
+      },
+      {
+        "text": " good",
+        "startMs": 7441,
+        "endMs": 7956,
+        "timestampMs": 7699,
+        "confidence": null
+      },
+      {
+        "text": " progress",
+        "startMs": 7956,
+        "endMs": 8530,
+        "timestampMs": 8243,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 8910,
+        "endMs": 9143,
+        "timestampMs": 9027,
+        "confidence": null
+      },
+      {
+        "text": " this",
+        "startMs": 9143,
+        "endMs": 9824,
+        "timestampMs": 9484,
+        "confidence": null
+      },
+      {
+        "text": " experimental",
+        "startMs": 9824,
+        "endMs": 10256,
+        "timestampMs": 10040,
+        "confidence": null
+      },
+      {
+        "text": " feature.",
+        "startMs": 10256,
+        "endMs": 10805,
+        "timestampMs": 10531,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " It",
+        "startMs": 11063,
+        "endMs": 11138,
+        "timestampMs": 11101,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 11138,
+        "endMs": 11198,
+        "timestampMs": 11168,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 11346,
+        "endMs": 11406,
+        "timestampMs": 11376,
+        "confidence": null
+      },
+      {
+        "text": " possible",
+        "startMs": 11704,
+        "endMs": 11987,
+        "timestampMs": 11846,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 11987,
+        "endMs": 12157,
+        "timestampMs": 12072,
+        "confidence": null
+      },
+      {
+        "text": " queue",
+        "startMs": 12157,
+        "endMs": 12383,
+        "timestampMs": 12270,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 12383,
+        "endMs": 12742,
+        "timestampMs": 12563,
+        "confidence": null
+      },
+      {
+        "text": " track",
+        "startMs": 12742,
+        "endMs": 13459,
+        "timestampMs": 13101,
+        "confidence": null
+      },
+      {
+        "text": " multiple",
+        "startMs": 13459,
+        "endMs": 13874,
+        "timestampMs": 13667,
+        "confidence": null
+      },
+      {
+        "text": " renders",
+        "startMs": 13874,
+        "endMs": 14345,
+        "timestampMs": 14110,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 14345,
+        "endMs": 14553,
+        "timestampMs": 14449,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 14553,
+        "endMs": 14779,
+        "timestampMs": 14666,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 14779,
+        "endMs": 15704,
+        "timestampMs": 15242,
+        "confidence": null
+      },
+      {
+        "text": " Studio,",
+        "startMs": 15704,
+        "endMs": 16194,
+        "timestampMs": 15949,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " we",
+        "startMs": 16372,
+        "endMs": 16553,
+        "timestampMs": 16463,
+        "confidence": null
+      },
+      {
+        "text": " added",
+        "startMs": 16553,
+        "endMs": 16866,
+        "timestampMs": 16710,
+        "confidence": null
+      },
+      {
+        "text": " support",
+        "startMs": 16916,
+        "endMs": 16982,
+        "timestampMs": 16949,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 17080,
+        "endMs": 17707,
+        "timestampMs": 17394,
+        "confidence": null
+      },
+      {
+        "text": " exporting",
+        "startMs": 17707,
+        "endMs": 18119,
+        "timestampMs": 17913,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 18119,
+        "endMs": 18399,
+        "timestampMs": 18259,
+        "confidence": null
+      },
+      {
+        "text": " new",
+        "startMs": 18399,
+        "endMs": 19025,
+        "timestampMs": 18712,
+        "confidence": null
+      },
+      {
+        "text": " formats,",
+        "startMs": 19233,
+        "endMs": 19768,
+        "timestampMs": 19501,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " including",
+        "startMs": 19931,
+        "endMs": 20347,
+        "timestampMs": 20139,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 20347,
+        "endMs": 20895,
+        "timestampMs": 20621,
+        "confidence": null
+      },
+      {
+        "text": " audio",
+        "startMs": 21109,
+        "endMs": 22146,
+        "timestampMs": 21628,
+        "confidence": null
+      },
+      {
+        "text": " formats",
+        "startMs": 22146,
+        "endMs": 22206,
+        "timestampMs": 22176,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 22298,
+        "endMs": 22598,
+        "timestampMs": 22448,
+        "confidence": null
+      },
+      {
+        "text": " also",
+        "startMs": 22598,
+        "endMs": 23055,
+        "timestampMs": 22827,
+        "confidence": null
+      },
+      {
+        "text": " these",
+        "startMs": 23404,
+        "endMs": 23744,
+        "timestampMs": 23574,
+        "confidence": null
+      },
+      {
+        "text": " new",
+        "startMs": 23744,
+        "endMs": 24334,
+        "timestampMs": 24039,
+        "confidence": null
+      },
+      {
+        "text": " CSS",
+        "startMs": 24334,
+        "endMs": 24888,
+        "timestampMs": 24611,
+        "confidence": null
+      },
+      {
+        "text": " properties",
+        "startMs": 24888,
+        "endMs": 25568,
+        "timestampMs": 25228,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 26044,
+        "endMs": 26208,
+        "timestampMs": 26126,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 26208,
+        "endMs": 26517,
+        "timestampMs": 26363,
+        "confidence": null
+      },
+      {
+        "text": " supported.",
+        "startMs": 26726,
+        "endMs": 27204,
+        "timestampMs": 26965,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats7": {
+    "sourceSpeech": [
+      4.210771,
+      39.006396
+    ],
+    "durationInFrames": 976,
+    "segments": [
+      {
+        "trimBefore": 122,
+        "durationInFrames": 94,
+        "outStart": 0,
+        "text": "Make Remotion work better with agents."
+      },
+      {
+        "trimBefore": 233,
+        "durationInFrames": 288,
+        "outStart": 94,
+        "text": "If you use Claude Code or similar to vibe code a video with Remotion, there just are some rough edges and we are trying to fix them."
+      },
+      {
+        "trimBefore": 537,
+        "durationInFrames": 163,
+        "outStart": 382,
+        "text": "For example, if the Remotion Studio is already running and the AI is trying to start another instance,"
+      },
+      {
+        "trimBefore": 711,
+        "durationInFrames": 47,
+        "outStart": 545,
+        "text": "we now prevent that."
+      },
+      {
+        "trimBefore": 777,
+        "durationInFrames": 314,
+        "outStart": 592,
+        "text": "The daunting multiple lockfile error message is now gone and also we removed a lot of friction by now finally supporting Zod 4."
+      },
+      {
+        "trimBefore": 1111,
+        "durationInFrames": 70,
+        "outStart": 906,
+        "text": "What else can we improve? Let us know."
+      }
+    ],
+    "captions": [
+      {
+        "text": "Make",
+        "startMs": 144,
+        "endMs": 639,
+        "timestampMs": 392,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 639,
+        "endMs": 1323,
+        "timestampMs": 981,
+        "confidence": null
+      },
+      {
+        "text": " work",
+        "startMs": 1323,
+        "endMs": 1818,
+        "timestampMs": 1571,
+        "confidence": null
+      },
+      {
+        "text": " better",
+        "startMs": 1818,
+        "endMs": 2336,
+        "timestampMs": 2077,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 2336,
+        "endMs": 2973,
+        "timestampMs": 2655,
+        "confidence": null
+      },
+      {
+        "text": " agents.",
+        "startMs": 2973,
+        "endMs": 3033,
+        "timestampMs": 3003,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " If",
+        "startMs": 3223,
+        "endMs": 3426,
+        "timestampMs": 3325,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 3426,
+        "endMs": 3742,
+        "timestampMs": 3584,
+        "confidence": null
+      },
+      {
+        "text": " use",
+        "startMs": 3742,
+        "endMs": 4171,
+        "timestampMs": 3957,
+        "confidence": null
+      },
+      {
+        "text": " Claude Code",
+        "startMs": 4171,
+        "endMs": 4713,
+        "timestampMs": 4442,
+        "confidence": null
+      },
+      {
+        "text": " or",
+        "startMs": 4713,
+        "endMs": 5119,
+        "timestampMs": 4916,
+        "confidence": null
+      },
+      {
+        "text": " similar",
+        "startMs": 5119,
+        "endMs": 5638,
+        "timestampMs": 5379,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 5638,
+        "endMs": 6089,
+        "timestampMs": 5864,
+        "confidence": null
+      },
+      {
+        "text": " vibe",
+        "startMs": 6089,
+        "endMs": 6360,
+        "timestampMs": 6225,
+        "confidence": null
+      },
+      {
+        "text": " code",
+        "startMs": 6360,
+        "endMs": 6586,
+        "timestampMs": 6473,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 6586,
+        "endMs": 6947,
+        "timestampMs": 6767,
+        "confidence": null
+      },
+      {
+        "text": " video",
+        "startMs": 6947,
+        "endMs": 7308,
+        "timestampMs": 7128,
+        "confidence": null
+      },
+      {
+        "text": " with",
+        "startMs": 7308,
+        "endMs": 7692,
+        "timestampMs": 7500,
+        "confidence": null
+      },
+      {
+        "text": " Remotion,",
+        "startMs": 7692,
+        "endMs": 7752,
+        "timestampMs": 7722,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " there",
+        "startMs": 8146,
+        "endMs": 8399,
+        "timestampMs": 8273,
+        "confidence": null
+      },
+      {
+        "text": " just",
+        "startMs": 8399,
+        "endMs": 8718,
+        "timestampMs": 8559,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 8718,
+        "endMs": 8920,
+        "timestampMs": 8819,
+        "confidence": null
+      },
+      {
+        "text": " some",
+        "startMs": 8920,
+        "endMs": 9156,
+        "timestampMs": 9038,
+        "confidence": null
+      },
+      {
+        "text": " rough",
+        "startMs": 9156,
+        "endMs": 9543,
+        "timestampMs": 9350,
+        "confidence": null
+      },
+      {
+        "text": " edges",
+        "startMs": 9543,
+        "endMs": 9964,
+        "timestampMs": 9754,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 10165,
+        "endMs": 10434,
+        "timestampMs": 10300,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 10798,
+        "endMs": 10903,
+        "timestampMs": 10851,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 10903,
+        "endMs": 11113,
+        "timestampMs": 11008,
+        "confidence": null
+      },
+      {
+        "text": " trying",
+        "startMs": 11113,
+        "endMs": 11429,
+        "timestampMs": 11271,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 11429,
+        "endMs": 11760,
+        "timestampMs": 11595,
+        "confidence": null
+      },
+      {
+        "text": " fix",
+        "startMs": 12038,
+        "endMs": 12148,
+        "timestampMs": 12093,
+        "confidence": null
+      },
+      {
+        "text": " them.",
+        "startMs": 12331,
+        "endMs": 12575,
+        "timestampMs": 12453,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " For",
+        "startMs": 12802,
+        "endMs": 13189,
+        "timestampMs": 12996,
+        "confidence": null
+      },
+      {
+        "text": " example,",
+        "startMs": 13189,
+        "endMs": 13249,
+        "timestampMs": 13219,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " if",
+        "startMs": 13433,
+        "endMs": 13575,
+        "timestampMs": 13504,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 13575,
+        "endMs": 13759,
+        "timestampMs": 13667,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 13759,
+        "endMs": 14247,
+        "timestampMs": 14003,
+        "confidence": null
+      },
+      {
+        "text": " Studio",
+        "startMs": 14247,
+        "endMs": 14451,
+        "timestampMs": 14349,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 14451,
+        "endMs": 14777,
+        "timestampMs": 14614,
+        "confidence": null
+      },
+      {
+        "text": " already",
+        "startMs": 14777,
+        "endMs": 14837,
+        "timestampMs": 14807,
+        "confidence": null
+      },
+      {
+        "text": " running",
+        "startMs": 15143,
+        "endMs": 15203,
+        "timestampMs": 15173,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 15428,
+        "endMs": 15652,
+        "timestampMs": 15540,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 15652,
+        "endMs": 15896,
+        "timestampMs": 15774,
+        "confidence": null
+      },
+      {
+        "text": " AI",
+        "startMs": 15896,
+        "endMs": 16181,
+        "timestampMs": 16039,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 16181,
+        "endMs": 16446,
+        "timestampMs": 16314,
+        "confidence": null
+      },
+      {
+        "text": " trying",
+        "startMs": 16446,
+        "endMs": 16751,
+        "timestampMs": 16599,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 16751,
+        "endMs": 17138,
+        "timestampMs": 16945,
+        "confidence": null
+      },
+      {
+        "text": " start",
+        "startMs": 17138,
+        "endMs": 17484,
+        "timestampMs": 17311,
+        "confidence": null
+      },
+      {
+        "text": " another",
+        "startMs": 17484,
+        "endMs": 17831,
+        "timestampMs": 17658,
+        "confidence": null
+      },
+      {
+        "text": " instance,",
+        "startMs": 18054,
+        "endMs": 18114,
+        "timestampMs": 18084,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " we",
+        "startMs": 18261,
+        "endMs": 18459,
+        "timestampMs": 18360,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 18459,
+        "endMs": 18757,
+        "timestampMs": 18608,
+        "confidence": null
+      },
+      {
+        "text": " prevent",
+        "startMs": 18757,
+        "endMs": 19126,
+        "timestampMs": 18942,
+        "confidence": null
+      },
+      {
+        "text": " that.",
+        "startMs": 19126,
+        "endMs": 19579,
+        "timestampMs": 19353,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " The",
+        "startMs": 19800,
+        "endMs": 20262,
+        "timestampMs": 20031,
+        "confidence": null
+      },
+      {
+        "text": " daunting",
+        "startMs": 20262,
+        "endMs": 20852,
+        "timestampMs": 20557,
+        "confidence": null
+      },
+      {
+        "text": " multiple",
+        "startMs": 21171,
+        "endMs": 21443,
+        "timestampMs": 21307,
+        "confidence": null
+      },
+      {
+        "text": " lockfile",
+        "startMs": 21443,
+        "endMs": 22026,
+        "timestampMs": 21735,
+        "confidence": null
+      },
+      {
+        "text": " error",
+        "startMs": 22026,
+        "endMs": 22512,
+        "timestampMs": 22269,
+        "confidence": null
+      },
+      {
+        "text": " message",
+        "startMs": 22512,
+        "endMs": 22959,
+        "timestampMs": 22736,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 22959,
+        "endMs": 23367,
+        "timestampMs": 23163,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 23367,
+        "endMs": 23931,
+        "timestampMs": 23649,
+        "confidence": null
+      },
+      {
+        "text": " gone",
+        "startMs": 24156,
+        "endMs": 24564,
+        "timestampMs": 24360,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 25021,
+        "endMs": 25297,
+        "timestampMs": 25159,
+        "confidence": null
+      },
+      {
+        "text": " also",
+        "startMs": 25297,
+        "endMs": 25556,
+        "timestampMs": 25427,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 25556,
+        "endMs": 25954,
+        "timestampMs": 25755,
+        "confidence": null
+      },
+      {
+        "text": " removed",
+        "startMs": 25954,
+        "endMs": 26092,
+        "timestampMs": 26023,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 26092,
+        "endMs": 26195,
+        "timestampMs": 26144,
+        "confidence": null
+      },
+      {
+        "text": " lot",
+        "startMs": 26195,
+        "endMs": 26264,
+        "timestampMs": 26230,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 26299,
+        "endMs": 26359,
+        "timestampMs": 26329,
+        "confidence": null
+      },
+      {
+        "text": " friction",
+        "startMs": 26627,
+        "endMs": 26869,
+        "timestampMs": 26748,
+        "confidence": null
+      },
+      {
+        "text": " by",
+        "startMs": 26869,
+        "endMs": 27232,
+        "timestampMs": 27051,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 27232,
+        "endMs": 27594,
+        "timestampMs": 27413,
+        "confidence": null
+      },
+      {
+        "text": " finally",
+        "startMs": 27594,
+        "endMs": 28268,
+        "timestampMs": 27931,
+        "confidence": null
+      },
+      {
+        "text": " supporting",
+        "startMs": 28268,
+        "endMs": 28872,
+        "timestampMs": 28570,
+        "confidence": null
+      },
+      {
+        "text": " Zod 4.",
+        "startMs": 29245,
+        "endMs": 30033,
+        "timestampMs": 29639,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " What",
+        "startMs": 30289,
+        "endMs": 30460,
+        "timestampMs": 30375,
+        "confidence": null
+      },
+      {
+        "text": " else",
+        "startMs": 30460,
+        "endMs": 30650,
+        "timestampMs": 30555,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 30650,
+        "endMs": 30783,
+        "timestampMs": 30717,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 30783,
+        "endMs": 31164,
+        "timestampMs": 30974,
+        "confidence": null
+      },
+      {
+        "text": " improve?",
+        "startMs": 31164,
+        "endMs": 31316,
+        "timestampMs": 31240,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " Let",
+        "startMs": 31567,
+        "endMs": 31627,
+        "timestampMs": 31597,
+        "confidence": null
+      },
+      {
+        "text": " us",
+        "startMs": 31624,
+        "endMs": 31738,
+        "timestampMs": 31681,
+        "confidence": null
+      },
+      {
+        "text": " know.",
+        "startMs": 31738,
+        "endMs": 32173,
+        "timestampMs": 31956,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats8": {
+    "sourceSpeech": [
+      2.734417,
+      28.471104
+    ],
+    "durationInFrames": 720,
+    "segments": [
+      {
+        "trimBefore": 78,
+        "durationInFrames": 42,
+        "outStart": 0,
+        "text": "Faster bundling."
+      },
+      {
+        "trimBefore": 137,
+        "durationInFrames": 158,
+        "outStart": 42,
+        "text": "You can now opt into the Rspack experiment which just has one purpose."
+      },
+      {
+        "trimBefore": 304,
+        "durationInFrames": 43,
+        "outStart": 200,
+        "text": "To make things faster."
+      },
+      {
+        "trimBefore": 363,
+        "durationInFrames": 139,
+        "outStart": 243,
+        "text": "When rendering the video the bundling stage is up to twice as fast"
+      },
+      {
+        "trimBefore": 514,
+        "durationInFrames": 166,
+        "outStart": 382,
+        "text": "and changes made to your code will be reflected on the canvas much faster."
+      },
+      {
+        "trimBefore": 699,
+        "durationInFrames": 172,
+        "outStart": 548,
+        "text": "You can opt into this today and we will make it the default in a future version of Remotion."
+      }
+    ],
+    "captions": [
+      {
+        "text": "Faster",
+        "startMs": 134,
+        "endMs": 394,
+        "timestampMs": 264,
+        "confidence": null
+      },
+      {
+        "text": " bundling.",
+        "startMs": 394,
+        "endMs": 1250,
+        "timestampMs": 822,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " You",
+        "startMs": 1478,
+        "endMs": 1651,
+        "timestampMs": 1565,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 1651,
+        "endMs": 1862,
+        "timestampMs": 1757,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 1862,
+        "endMs": 2111,
+        "timestampMs": 1987,
+        "confidence": null
+      },
+      {
+        "text": " opt",
+        "startMs": 2111,
+        "endMs": 2399,
+        "timestampMs": 2255,
+        "confidence": null
+      },
+      {
+        "text": " into",
+        "startMs": 2399,
+        "endMs": 2629,
+        "timestampMs": 2514,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 2847,
+        "endMs": 3229,
+        "timestampMs": 3038,
+        "confidence": null
+      },
+      {
+        "text": " Rspack",
+        "startMs": 3229,
+        "endMs": 4378,
+        "timestampMs": 3804,
+        "confidence": null
+      },
+      {
+        "text": " experiment",
+        "startMs": 4378,
+        "endMs": 4870,
+        "timestampMs": 4624,
+        "confidence": null
+      },
+      {
+        "text": " which",
+        "startMs": 4870,
+        "endMs": 5125,
+        "timestampMs": 4998,
+        "confidence": null
+      },
+      {
+        "text": " just",
+        "startMs": 5125,
+        "endMs": 5326,
+        "timestampMs": 5226,
+        "confidence": null
+      },
+      {
+        "text": " has",
+        "startMs": 5326,
+        "endMs": 5690,
+        "timestampMs": 5508,
+        "confidence": null
+      },
+      {
+        "text": " one",
+        "startMs": 5690,
+        "endMs": 6128,
+        "timestampMs": 5909,
+        "confidence": null
+      },
+      {
+        "text": " purpose.",
+        "startMs": 6128,
+        "endMs": 6492,
+        "timestampMs": 6310,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " To",
+        "startMs": 6734,
+        "endMs": 6909,
+        "timestampMs": 6822,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 6909,
+        "endMs": 7112,
+        "timestampMs": 7011,
+        "confidence": null
+      },
+      {
+        "text": " things",
+        "startMs": 7112,
+        "endMs": 7476,
+        "timestampMs": 7294,
+        "confidence": null
+      },
+      {
+        "text": " faster.",
+        "startMs": 7476,
+        "endMs": 7936,
+        "timestampMs": 7706,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " When",
+        "startMs": 8182,
+        "endMs": 8563,
+        "timestampMs": 8373,
+        "confidence": null
+      },
+      {
+        "text": " rendering",
+        "startMs": 8563,
+        "endMs": 8867,
+        "timestampMs": 8715,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 8867,
+        "endMs": 9229,
+        "timestampMs": 9048,
+        "confidence": null
+      },
+      {
+        "text": " video",
+        "startMs": 9229,
+        "endMs": 9610,
+        "timestampMs": 9420,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 9610,
+        "endMs": 9801,
+        "timestampMs": 9706,
+        "confidence": null
+      },
+      {
+        "text": " bundling",
+        "startMs": 9801,
+        "endMs": 10334,
+        "timestampMs": 10068,
+        "confidence": null
+      },
+      {
+        "text": " stage",
+        "startMs": 10334,
+        "endMs": 10620,
+        "timestampMs": 10477,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 10620,
+        "endMs": 10830,
+        "timestampMs": 10725,
+        "confidence": null
+      },
+      {
+        "text": " up",
+        "startMs": 10830,
+        "endMs": 11115,
+        "timestampMs": 10973,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 11115,
+        "endMs": 11496,
+        "timestampMs": 11306,
+        "confidence": null
+      },
+      {
+        "text": " twice",
+        "startMs": 11496,
+        "endMs": 11877,
+        "timestampMs": 11687,
+        "confidence": null
+      },
+      {
+        "text": " as",
+        "startMs": 11877,
+        "endMs": 12335,
+        "timestampMs": 12106,
+        "confidence": null
+      },
+      {
+        "text": " fast",
+        "startMs": 12335,
+        "endMs": 12639,
+        "timestampMs": 12487,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 12811,
+        "endMs": 13169,
+        "timestampMs": 12990,
+        "confidence": null
+      },
+      {
+        "text": " changes",
+        "startMs": 13169,
+        "endMs": 13542,
+        "timestampMs": 13356,
+        "confidence": null
+      },
+      {
+        "text": " made",
+        "startMs": 13542,
+        "endMs": 13706,
+        "timestampMs": 13624,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 13706,
+        "endMs": 13825,
+        "timestampMs": 13766,
+        "confidence": null
+      },
+      {
+        "text": " your",
+        "startMs": 13825,
+        "endMs": 14124,
+        "timestampMs": 13975,
+        "confidence": null
+      },
+      {
+        "text": " code",
+        "startMs": 14124,
+        "endMs": 14661,
+        "timestampMs": 14393,
+        "confidence": null
+      },
+      {
+        "text": " will",
+        "startMs": 15145,
+        "endMs": 15294,
+        "timestampMs": 15220,
+        "confidence": null
+      },
+      {
+        "text": " be",
+        "startMs": 15294,
+        "endMs": 15796,
+        "timestampMs": 15545,
+        "confidence": null
+      },
+      {
+        "text": " reflected",
+        "startMs": 15796,
+        "endMs": 16167,
+        "timestampMs": 15982,
+        "confidence": null
+      },
+      {
+        "text": " on",
+        "startMs": 16167,
+        "endMs": 16390,
+        "timestampMs": 16279,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 16390,
+        "endMs": 16632,
+        "timestampMs": 16511,
+        "confidence": null
+      },
+      {
+        "text": " canvas",
+        "startMs": 16632,
+        "endMs": 17115,
+        "timestampMs": 16874,
+        "confidence": null
+      },
+      {
+        "text": " much",
+        "startMs": 17115,
+        "endMs": 17617,
+        "timestampMs": 17366,
+        "confidence": null
+      },
+      {
+        "text": " faster.",
+        "startMs": 17617,
+        "endMs": 18100,
+        "timestampMs": 17859,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " You",
+        "startMs": 18335,
+        "endMs": 18520,
+        "timestampMs": 18428,
+        "confidence": null
+      },
+      {
+        "text": " can",
+        "startMs": 18520,
+        "endMs": 18705,
+        "timestampMs": 18613,
+        "confidence": null
+      },
+      {
+        "text": " opt",
+        "startMs": 18705,
+        "endMs": 19045,
+        "timestampMs": 18875,
+        "confidence": null
+      },
+      {
+        "text": " into",
+        "startMs": 19045,
+        "endMs": 19260,
+        "timestampMs": 19153,
+        "confidence": null
+      },
+      {
+        "text": " this",
+        "startMs": 19260,
+        "endMs": 19600,
+        "timestampMs": 19430,
+        "confidence": null
+      },
+      {
+        "text": " today",
+        "startMs": 19615,
+        "endMs": 19877,
+        "timestampMs": 19746,
+        "confidence": null
+      },
+      {
+        "text": " and",
+        "startMs": 19877,
+        "endMs": 19985,
+        "timestampMs": 19931,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 19985,
+        "endMs": 20108,
+        "timestampMs": 20047,
+        "confidence": null
+      },
+      {
+        "text": " will",
+        "startMs": 20108,
+        "endMs": 20216,
+        "timestampMs": 20162,
+        "confidence": null
+      },
+      {
+        "text": " make",
+        "startMs": 20247,
+        "endMs": 20307,
+        "timestampMs": 20277,
+        "confidence": null
+      },
+      {
+        "text": " it",
+        "startMs": 20386,
+        "endMs": 20525,
+        "timestampMs": 20456,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 20525,
+        "endMs": 20849,
+        "timestampMs": 20687,
+        "confidence": null
+      },
+      {
+        "text": " default",
+        "startMs": 20849,
+        "endMs": 21034,
+        "timestampMs": 20942,
+        "confidence": null
+      },
+      {
+        "text": " in",
+        "startMs": 21034,
+        "endMs": 21142,
+        "timestampMs": 21088,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 21142,
+        "endMs": 21357,
+        "timestampMs": 21250,
+        "confidence": null
+      },
+      {
+        "text": " future",
+        "startMs": 21357,
+        "endMs": 21635,
+        "timestampMs": 21496,
+        "confidence": null
+      },
+      {
+        "text": " version",
+        "startMs": 21635,
+        "endMs": 21820,
+        "timestampMs": 21728,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 21820,
+        "endMs": 21974,
+        "timestampMs": 21897,
+        "confidence": null
+      },
+      {
+        "text": " Remotion.",
+        "startMs": 21974,
+        "endMs": 23438,
+        "timestampMs": 22706,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats9": {
+    "sourceSpeech": [
+      1.848667,
+      17.951292
+    ],
+    "durationInFrames": 484,
+    "segments": [
+      {
+        "trimBefore": 51,
+        "durationInFrames": 79,
+        "outStart": 0,
+        "text": "And now a little sneak peek of what's next."
+      },
+      {
+        "trimBefore": 147,
+        "durationInFrames": 405,
+        "outStart": 79,
+        "text": "We hear that you want Remotion to become easier to use. And for a long time we did not know how to achieve that without compromising on the dynamicness that you get when everything is expressed as code."
+      }
+    ],
+    "captions": [
+      {
+        "text": "And",
+        "startMs": 149,
+        "endMs": 402,
+        "timestampMs": 276,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 402,
+        "endMs": 587,
+        "timestampMs": 495,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 587,
+        "endMs": 756,
+        "timestampMs": 672,
+        "confidence": null
+      },
+      {
+        "text": " little",
+        "startMs": 756,
+        "endMs": 1009,
+        "timestampMs": 883,
+        "confidence": null
+      },
+      {
+        "text": " sneak",
+        "startMs": 1009,
+        "endMs": 1211,
+        "timestampMs": 1110,
+        "confidence": null
+      },
+      {
+        "text": " peek",
+        "startMs": 1211,
+        "endMs": 1447,
+        "timestampMs": 1329,
+        "confidence": null
+      },
+      {
+        "text": " of",
+        "startMs": 1447,
+        "endMs": 1650,
+        "timestampMs": 1549,
+        "confidence": null
+      },
+      {
+        "text": " what's",
+        "startMs": 1650,
+        "endMs": 1852,
+        "timestampMs": 1751,
+        "confidence": null
+      },
+      {
+        "text": " next.",
+        "startMs": 2004,
+        "endMs": 2459,
+        "timestampMs": 2232,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " We",
+        "startMs": 2705,
+        "endMs": 2886,
+        "timestampMs": 2796,
+        "confidence": null
+      },
+      {
+        "text": " hear",
+        "startMs": 2886,
+        "endMs": 3106,
+        "timestampMs": 2996,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 3106,
+        "endMs": 3267,
+        "timestampMs": 3187,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 3267,
+        "endMs": 3487,
+        "timestampMs": 3377,
+        "confidence": null
+      },
+      {
+        "text": " want",
+        "startMs": 3487,
+        "endMs": 3748,
+        "timestampMs": 3618,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 3748,
+        "endMs": 4089,
+        "timestampMs": 3919,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 4089,
+        "endMs": 4389,
+        "timestampMs": 4239,
+        "confidence": null
+      },
+      {
+        "text": " become",
+        "startMs": 4389,
+        "endMs": 4851,
+        "timestampMs": 4620,
+        "confidence": null
+      },
+      {
+        "text": " easier",
+        "startMs": 4851,
+        "endMs": 5131,
+        "timestampMs": 4991,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 5131,
+        "endMs": 5452,
+        "timestampMs": 5292,
+        "confidence": null
+      },
+      {
+        "text": " use.",
+        "startMs": 5703,
+        "endMs": 5782,
+        "timestampMs": 5743,
+        "confidence": null,
+        "pageBreakAfter": true
+      },
+      {
+        "text": " And",
+        "startMs": 6033,
+        "endMs": 6159,
+        "timestampMs": 6096,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 6159,
+        "endMs": 6332,
+        "timestampMs": 6246,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 6332,
+        "endMs": 6426,
+        "timestampMs": 6379,
+        "confidence": null
+      },
+      {
+        "text": " long",
+        "startMs": 6426,
+        "endMs": 6662,
+        "timestampMs": 6544,
+        "confidence": null
+      },
+      {
+        "text": " time",
+        "startMs": 6662,
+        "endMs": 6835,
+        "timestampMs": 6749,
+        "confidence": null
+      },
+      {
+        "text": " we",
+        "startMs": 6835,
+        "endMs": 6945,
+        "timestampMs": 6890,
+        "confidence": null
+      },
+      {
+        "text": " did",
+        "startMs": 6945,
+        "endMs": 7149,
+        "timestampMs": 7047,
+        "confidence": null
+      },
+      {
+        "text": " not",
+        "startMs": 7149,
+        "endMs": 7511,
+        "timestampMs": 7330,
+        "confidence": null
+      },
+      {
+        "text": " know",
+        "startMs": 7511,
+        "endMs": 7872,
+        "timestampMs": 7692,
+        "confidence": null
+      },
+      {
+        "text": " how",
+        "startMs": 8224,
+        "endMs": 8359,
+        "timestampMs": 8292,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 8359,
+        "endMs": 8522,
+        "timestampMs": 8441,
+        "confidence": null
+      },
+      {
+        "text": " achieve",
+        "startMs": 8522,
+        "endMs": 8821,
+        "timestampMs": 8672,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 8821,
+        "endMs": 9133,
+        "timestampMs": 8977,
+        "confidence": null
+      },
+      {
+        "text": " without",
+        "startMs": 9429,
+        "endMs": 10485,
+        "timestampMs": 9957,
+        "confidence": null
+      },
+      {
+        "text": " compromising",
+        "startMs": 10485,
+        "endMs": 10716,
+        "timestampMs": 10601,
+        "confidence": null
+      },
+      {
+        "text": " on",
+        "startMs": 11051,
+        "endMs": 11297,
+        "timestampMs": 11174,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 11297,
+        "endMs": 11708,
+        "timestampMs": 11503,
+        "confidence": null
+      },
+      {
+        "text": " dynamicness",
+        "startMs": 11708,
+        "endMs": 12464,
+        "timestampMs": 12086,
+        "confidence": null
+      },
+      {
+        "text": " that",
+        "startMs": 12829,
+        "endMs": 12945,
+        "timestampMs": 12887,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 12945,
+        "endMs": 13125,
+        "timestampMs": 13035,
+        "confidence": null
+      },
+      {
+        "text": " get",
+        "startMs": 13125,
+        "endMs": 13395,
+        "timestampMs": 13260,
+        "confidence": null
+      },
+      {
+        "text": " when",
+        "startMs": 13682,
+        "endMs": 13948,
+        "timestampMs": 13815,
+        "confidence": null
+      },
+      {
+        "text": " everything",
+        "startMs": 13948,
+        "endMs": 14159,
+        "timestampMs": 14054,
+        "confidence": null
+      },
+      {
+        "text": " is",
+        "startMs": 14159,
+        "endMs": 14447,
+        "timestampMs": 14303,
+        "confidence": null
+      },
+      {
+        "text": " expressed",
+        "startMs": 14447,
+        "endMs": 14625,
+        "timestampMs": 14536,
+        "confidence": null
+      },
+      {
+        "text": " as",
+        "startMs": 14625,
+        "endMs": 14747,
+        "timestampMs": 14686,
+        "confidence": null
+      },
+      {
+        "text": " code.",
+        "startMs": 14802,
+        "endMs": 15684,
+        "timestampMs": 15243,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  },
+  "whats10": {
+    "sourceSpeech": [
+      1.840917,
+      15.784833
+    ],
+    "durationInFrames": 428,
+    "segments": [
+      {
+        "trimBefore": 51,
+        "durationInFrames": 361,
+        "outStart": 0,
+        "text": "We are now prototyping a new visual mode for the Remotion Studio which will allow you to interactively change many things about your video while still writing everything back"
+      },
+      {
+        "trimBefore": 423,
+        "durationInFrames": 67,
+        "outStart": 361,
+        "text": "as regular React code."
+      }
+    ],
+    "captions": [
+      {
+        "text": "We",
+        "startMs": 141,
+        "endMs": 365,
+        "timestampMs": 253,
+        "confidence": null
+      },
+      {
+        "text": " are",
+        "startMs": 365,
+        "endMs": 533,
+        "timestampMs": 449,
+        "confidence": null
+      },
+      {
+        "text": " now",
+        "startMs": 533,
+        "endMs": 999,
+        "timestampMs": 766,
+        "confidence": null
+      },
+      {
+        "text": " prototyping",
+        "startMs": 999,
+        "endMs": 1429,
+        "timestampMs": 1214,
+        "confidence": null
+      },
+      {
+        "text": " a",
+        "startMs": 1429,
+        "endMs": 1802,
+        "timestampMs": 1616,
+        "confidence": null
+      },
+      {
+        "text": " new",
+        "startMs": 1802,
+        "endMs": 2306,
+        "timestampMs": 2054,
+        "confidence": null
+      },
+      {
+        "text": " visual",
+        "startMs": 2306,
+        "endMs": 2866,
+        "timestampMs": 2586,
+        "confidence": null
+      },
+      {
+        "text": " mode",
+        "startMs": 2866,
+        "endMs": 3090,
+        "timestampMs": 2978,
+        "confidence": null
+      },
+      {
+        "text": " for",
+        "startMs": 3090,
+        "endMs": 3239,
+        "timestampMs": 3165,
+        "confidence": null
+      },
+      {
+        "text": " the",
+        "startMs": 3239,
+        "endMs": 3407,
+        "timestampMs": 3323,
+        "confidence": null
+      },
+      {
+        "text": " Remotion",
+        "startMs": 3407,
+        "endMs": 4060,
+        "timestampMs": 3734,
+        "confidence": null
+      },
+      {
+        "text": " Studio",
+        "startMs": 4060,
+        "endMs": 4714,
+        "timestampMs": 4387,
+        "confidence": null
+      },
+      {
+        "text": " which",
+        "startMs": 5075,
+        "endMs": 5236,
+        "timestampMs": 5156,
+        "confidence": null
+      },
+      {
+        "text": " will",
+        "startMs": 5236,
+        "endMs": 5413,
+        "timestampMs": 5325,
+        "confidence": null
+      },
+      {
+        "text": " allow",
+        "startMs": 5413,
+        "endMs": 5590,
+        "timestampMs": 5502,
+        "confidence": null
+      },
+      {
+        "text": " you",
+        "startMs": 5590,
+        "endMs": 5735,
+        "timestampMs": 5663,
+        "confidence": null
+      },
+      {
+        "text": " to",
+        "startMs": 5735,
+        "endMs": 5815,
+        "timestampMs": 5775,
+        "confidence": null
+      },
+      {
+        "text": " interactively",
+        "startMs": 6233,
+        "endMs": 6957,
+        "timestampMs": 6595,
+        "confidence": null
+      },
+      {
+        "text": " change",
+        "startMs": 6957,
+        "endMs": 7584,
+        "timestampMs": 7271,
+        "confidence": null
+      },
+      {
+        "text": " many",
+        "startMs": 7864,
+        "endMs": 8168,
+        "timestampMs": 8016,
+        "confidence": null
+      },
+      {
+        "text": " things",
+        "startMs": 8168,
+        "endMs": 8472,
+        "timestampMs": 8320,
+        "confidence": null
+      },
+      {
+        "text": " about",
+        "startMs": 8472,
+        "endMs": 8718,
+        "timestampMs": 8595,
+        "confidence": null
+      },
+      {
+        "text": " your",
+        "startMs": 8718,
+        "endMs": 9098,
+        "timestampMs": 8908,
+        "confidence": null
+      },
+      {
+        "text": " video",
+        "startMs": 9098,
+        "endMs": 9648,
+        "timestampMs": 9373,
+        "confidence": null
+      },
+      {
+        "text": " while",
+        "startMs": 10036,
+        "endMs": 10287,
+        "timestampMs": 10162,
+        "confidence": null
+      },
+      {
+        "text": " still",
+        "startMs": 10287,
+        "endMs": 10749,
+        "timestampMs": 10518,
+        "confidence": null
+      },
+      {
+        "text": " writing",
+        "startMs": 10749,
+        "endMs": 11253,
+        "timestampMs": 11001,
+        "confidence": null
+      },
+      {
+        "text": " everything",
+        "startMs": 11253,
+        "endMs": 11925,
+        "timestampMs": 11589,
+        "confidence": null
+      },
+      {
+        "text": " back",
+        "startMs": 11925,
+        "endMs": 11985,
+        "timestampMs": 11955,
+        "confidence": null
+      },
+      {
+        "text": " as",
+        "startMs": 12110,
+        "endMs": 12617,
+        "timestampMs": 12364,
+        "confidence": null
+      },
+      {
+        "text": " regular",
+        "startMs": 12617,
+        "endMs": 13189,
+        "timestampMs": 12903,
+        "confidence": null
+      },
+      {
+        "text": " React",
+        "startMs": 13189,
+        "endMs": 13630,
+        "timestampMs": 13410,
+        "confidence": null
+      },
+      {
+        "text": " code.",
+        "startMs": 13630,
+        "endMs": 13718,
+        "timestampMs": 13674,
+        "confidence": null,
+        "pageBreakAfter": true
+      }
+    ]
+  }
+}

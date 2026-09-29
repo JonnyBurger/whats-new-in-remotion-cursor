@@ -1,0 +1,443 @@
+[
+  {
+    "text": "Client",
+    "startMs": 2740,
+    "endMs": 3060,
+    "timestampMs": 2900,
+    "confidence": null
+  },
+  {
+    "text": "-side",
+    "startMs": 3060,
+    "endMs": 3720,
+    "timestampMs": 3390,
+    "confidence": null
+  },
+  {
+    "text": " rendering",
+    "startMs": 3720,
+    "endMs": 4300,
+    "timestampMs": 4010,
+    "confidence": null
+  },
+  {
+    "text": " progress.",
+    "startMs": 4300,
+    "endMs": 5280,
+    "timestampMs": 4790,
+    "confidence": null
+  },
+  {
+    "text": " We",
+    "startMs": 5500,
+    "endMs": 5640,
+    "timestampMs": 5570,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 5640,
+    "endMs": 5900,
+    "timestampMs": 5770,
+    "confidence": null
+  },
+  {
+    "text": " trying",
+    "startMs": 5900,
+    "endMs": 6100,
+    "timestampMs": 6000,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 6100,
+    "endMs": 6260,
+    "timestampMs": 6180,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 6260,
+    "endMs": 6440,
+    "timestampMs": 6350,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 6440,
+    "endMs": 6800,
+    "timestampMs": 6620,
+    "confidence": null
+  },
+  {
+    "text": " possible",
+    "startMs": 6800,
+    "endMs": 7100,
+    "timestampMs": 6950,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 7100,
+    "endMs": 7460,
+    "timestampMs": 7280,
+    "confidence": null
+  },
+  {
+    "text": " render",
+    "startMs": 7460,
+    "endMs": 8060,
+    "timestampMs": 7760,
+    "confidence": null
+  },
+  {
+    "text": " videos",
+    "startMs": 8060,
+    "endMs": 8820,
+    "timestampMs": 8440,
+    "confidence": null
+  },
+  {
+    "text": " purely",
+    "startMs": 8820,
+    "endMs": 8820,
+    "timestampMs": 8820,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 9200,
+    "endMs": 9380,
+    "timestampMs": 9290,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 9380,
+    "endMs": 9680,
+    "timestampMs": 9530,
+    "confidence": null
+  },
+  {
+    "text": " browser",
+    "startMs": 9680,
+    "endMs": 10140,
+    "timestampMs": 9910,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 10140,
+    "endMs": 10300,
+    "timestampMs": 10220,
+    "confidence": null
+  },
+  {
+    "text": " we've",
+    "startMs": 10300,
+    "endMs": 10560,
+    "timestampMs": 10430,
+    "confidence": null
+  },
+  {
+    "text": " made",
+    "startMs": 10560,
+    "endMs": 10720,
+    "timestampMs": 10640,
+    "confidence": null
+  },
+  {
+    "text": " some",
+    "startMs": 10720,
+    "endMs": 10940,
+    "timestampMs": 10830,
+    "confidence": null
+  },
+  {
+    "text": " good",
+    "startMs": 10940,
+    "endMs": 11460,
+    "timestampMs": 11200,
+    "confidence": null
+  },
+  {
+    "text": " progress",
+    "startMs": 11460,
+    "endMs": 12040,
+    "timestampMs": 11750,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 12040,
+    "endMs": 12320,
+    "timestampMs": 12180,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 12320,
+    "endMs": 13140,
+    "timestampMs": 12730,
+    "confidence": null
+  },
+  {
+    "text": " experimental",
+    "startMs": 13140,
+    "endMs": 13660,
+    "timestampMs": 13400,
+    "confidence": null
+  },
+  {
+    "text": " feature.",
+    "startMs": 13660,
+    "endMs": 14320,
+    "timestampMs": 13990,
+    "confidence": null
+  },
+  {
+    "text": " It",
+    "startMs": 14480,
+    "endMs": 14560,
+    "timestampMs": 14520,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 14560,
+    "endMs": 14620,
+    "timestampMs": 14590,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 14780,
+    "endMs": 14780,
+    "timestampMs": 14780,
+    "confidence": null
+  },
+  {
+    "text": " possible",
+    "startMs": 15160,
+    "endMs": 15460,
+    "timestampMs": 15310,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 15460,
+    "endMs": 15640,
+    "timestampMs": 15550,
+    "confidence": null
+  },
+  {
+    "text": " queue",
+    "startMs": 15640,
+    "endMs": 15880,
+    "timestampMs": 15760,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 15880,
+    "endMs": 16260,
+    "timestampMs": 16070,
+    "confidence": null
+  },
+  {
+    "text": " track",
+    "startMs": 16260,
+    "endMs": 17020,
+    "timestampMs": 16640,
+    "confidence": null
+  },
+  {
+    "text": " multiple",
+    "startMs": 17020,
+    "endMs": 17460,
+    "timestampMs": 17240,
+    "confidence": null
+  },
+  {
+    "text": " renders",
+    "startMs": 17460,
+    "endMs": 17960,
+    "timestampMs": 17710,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 17960,
+    "endMs": 18180,
+    "timestampMs": 18070,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 18180,
+    "endMs": 18420,
+    "timestampMs": 18300,
+    "confidence": null
+  },
+  {
+    "text": " Remotion",
+    "startMs": 18420,
+    "endMs": 19400,
+    "timestampMs": 18910,
+    "confidence": null
+  },
+  {
+    "text": " Studio,",
+    "startMs": 19400,
+    "endMs": 19920,
+    "timestampMs": 19660,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 20240,
+    "endMs": 20460,
+    "timestampMs": 20350,
+    "confidence": null
+  },
+  {
+    "text": " added",
+    "startMs": 20460,
+    "endMs": 20840,
+    "timestampMs": 20650,
+    "confidence": null
+  },
+  {
+    "text": " support",
+    "startMs": 20900,
+    "endMs": 20980,
+    "timestampMs": 20940,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 21100,
+    "endMs": 21860,
+    "timestampMs": 21480,
+    "confidence": null
+  },
+  {
+    "text": " exporting",
+    "startMs": 21860,
+    "endMs": 22360,
+    "timestampMs": 22110,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 22360,
+    "endMs": 22700,
+    "timestampMs": 22530,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 22700,
+    "endMs": 23460,
+    "timestampMs": 23080,
+    "confidence": null
+  },
+  {
+    "text": " formats,",
+    "startMs": 23460,
+    "endMs": 23980,
+    "timestampMs": 23720,
+    "confidence": null
+  },
+  {
+    "text": " including",
+    "startMs": 24500,
+    "endMs": 24940,
+    "timestampMs": 24720,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 24940,
+    "endMs": 25520,
+    "timestampMs": 25230,
+    "confidence": null
+  },
+  {
+    "text": " audio",
+    "startMs": 25520,
+    "endMs": 26220,
+    "timestampMs": 25870,
+    "confidence": null
+  },
+  {
+    "text": " formats",
+    "startMs": 26220,
+    "endMs": 26220,
+    "timestampMs": 26220,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 26860,
+    "endMs": 27400,
+    "timestampMs": 27130,
+    "confidence": null
+  },
+  {
+    "text": " also",
+    "startMs": 27400,
+    "endMs": 28220,
+    "timestampMs": 27810,
+    "confidence": null
+  },
+  {
+    "text": " these",
+    "startMs": 28220,
+    "endMs": 28600,
+    "timestampMs": 28410,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 28600,
+    "endMs": 29260,
+    "timestampMs": 28930,
+    "confidence": null
+  },
+  {
+    "text": " CSS",
+    "startMs": 29260,
+    "endMs": 29880,
+    "timestampMs": 29570,
+    "confidence": null
+  },
+  {
+    "text": " properties",
+    "startMs": 29880,
+    "endMs": 30640,
+    "timestampMs": 30260,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 30640,
+    "endMs": 30960,
+    "timestampMs": 30800,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 30960,
+    "endMs": 31560,
+    "timestampMs": 31260,
+    "confidence": null
+  },
+  {
+    "text": " supported.",
+    "startMs": 31560,
+    "endMs": 31760,
+    "timestampMs": 31660,
+    "confidence": null
+  }
+]

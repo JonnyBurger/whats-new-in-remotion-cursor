@@ -11,4 +11,6 @@ import { enableTailwind } from '@remotion/tailwind-v4';
 Config.setRspack(true);
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
+// Light leaks and other effects are WebGL2-based.
+Config.setChromiumOpenGlRenderer("angle");
 Config.overrideBundlerConfig(enableTailwind);

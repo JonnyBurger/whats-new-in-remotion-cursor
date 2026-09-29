@@ -1,0 +1,331 @@
+[
+  {
+    "text": "And",
+    "startMs": 1980,
+    "endMs": 2280,
+    "timestampMs": 2130,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 2280,
+    "endMs": 2500,
+    "timestampMs": 2390,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2500,
+    "endMs": 2700,
+    "timestampMs": 2600,
+    "confidence": null
+  },
+  {
+    "text": " little",
+    "startMs": 2700,
+    "endMs": 3000,
+    "timestampMs": 2850,
+    "confidence": null
+  },
+  {
+    "text": " sneak",
+    "startMs": 3000,
+    "endMs": 3240,
+    "timestampMs": 3120,
+    "confidence": null
+  },
+  {
+    "text": " peek",
+    "startMs": 3240,
+    "endMs": 3520,
+    "timestampMs": 3380,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 3520,
+    "endMs": 3760,
+    "timestampMs": 3640,
+    "confidence": null
+  },
+  {
+    "text": " what's",
+    "startMs": 3760,
+    "endMs": 4000,
+    "timestampMs": 3880,
+    "confidence": null
+  },
+  {
+    "text": " next.",
+    "startMs": 4180,
+    "endMs": 4720,
+    "timestampMs": 4450,
+    "confidence": null
+  },
+  {
+    "text": " We",
+    "startMs": 5160,
+    "endMs": 5340,
+    "timestampMs": 5250,
+    "confidence": null
+  },
+  {
+    "text": " hear",
+    "startMs": 5340,
+    "endMs": 5560,
+    "timestampMs": 5450,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 5560,
+    "endMs": 5720,
+    "timestampMs": 5640,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 5720,
+    "endMs": 5940,
+    "timestampMs": 5830,
+    "confidence": null
+  },
+  {
+    "text": " want",
+    "startMs": 5940,
+    "endMs": 6200,
+    "timestampMs": 6070,
+    "confidence": null
+  },
+  {
+    "text": " Remotion",
+    "startMs": 6200,
+    "endMs": 6540,
+    "timestampMs": 6370,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 6540,
+    "endMs": 6840,
+    "timestampMs": 6690,
+    "confidence": null
+  },
+  {
+    "text": " become",
+    "startMs": 6840,
+    "endMs": 7300,
+    "timestampMs": 7070,
+    "confidence": null
+  },
+  {
+    "text": " easier",
+    "startMs": 7300,
+    "endMs": 7580,
+    "timestampMs": 7440,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 7580,
+    "endMs": 7900,
+    "timestampMs": 7740,
+    "confidence": null
+  },
+  {
+    "text": " use.",
+    "startMs": 7900,
+    "endMs": 8000,
+    "timestampMs": 7950,
+    "confidence": null
+  },
+  {
+    "text": " And",
+    "startMs": 8320,
+    "endMs": 8480,
+    "timestampMs": 8400,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 8480,
+    "endMs": 8700,
+    "timestampMs": 8590,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 8700,
+    "endMs": 8820,
+    "timestampMs": 8760,
+    "confidence": null
+  },
+  {
+    "text": " long",
+    "startMs": 8820,
+    "endMs": 9120,
+    "timestampMs": 8970,
+    "confidence": null
+  },
+  {
+    "text": " time",
+    "startMs": 9120,
+    "endMs": 9340,
+    "timestampMs": 9230,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 9340,
+    "endMs": 9480,
+    "timestampMs": 9410,
+    "confidence": null
+  },
+  {
+    "text": " did",
+    "startMs": 9480,
+    "endMs": 9740,
+    "timestampMs": 9610,
+    "confidence": null
+  },
+  {
+    "text": " not",
+    "startMs": 9740,
+    "endMs": 10200,
+    "timestampMs": 9970,
+    "confidence": null
+  },
+  {
+    "text": " know",
+    "startMs": 10200,
+    "endMs": 10660,
+    "timestampMs": 10430,
+    "confidence": null
+  },
+  {
+    "text": " how",
+    "startMs": 10660,
+    "endMs": 10860,
+    "timestampMs": 10760,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 10860,
+    "endMs": 11100,
+    "timestampMs": 10980,
+    "confidence": null
+  },
+  {
+    "text": " achieve",
+    "startMs": 11100,
+    "endMs": 11540,
+    "timestampMs": 11320,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 11540,
+    "endMs": 12000,
+    "timestampMs": 11770,
+    "confidence": null
+  },
+  {
+    "text": " without",
+    "startMs": 12000,
+    "endMs": 12820,
+    "timestampMs": 12410,
+    "confidence": null
+  },
+  {
+    "text": " compromising",
+    "startMs": 12820,
+    "endMs": 13000,
+    "timestampMs": 12910,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 13480,
+    "endMs": 13780,
+    "timestampMs": 13630,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 13780,
+    "endMs": 14280,
+    "timestampMs": 14030,
+    "confidence": null
+  },
+  {
+    "text": " dynamicness",
+    "startMs": 14280,
+    "endMs": 15200,
+    "timestampMs": 14740,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 15200,
+    "endMs": 15380,
+    "timestampMs": 15290,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 15380,
+    "endMs": 15660,
+    "timestampMs": 15520,
+    "confidence": null
+  },
+  {
+    "text": " get",
+    "startMs": 15660,
+    "endMs": 16080,
+    "timestampMs": 15870,
+    "confidence": null
+  },
+  {
+    "text": " when",
+    "startMs": 16080,
+    "endMs": 16560,
+    "timestampMs": 16320,
+    "confidence": null
+  },
+  {
+    "text": " everything",
+    "startMs": 16560,
+    "endMs": 16940,
+    "timestampMs": 16750,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 16940,
+    "endMs": 17460,
+    "timestampMs": 17200,
+    "confidence": null
+  },
+  {
+    "text": " expressed",
+    "startMs": 17460,
+    "endMs": 17780,
+    "timestampMs": 17620,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 17780,
+    "endMs": 18000,
+    "timestampMs": 17890,
+    "confidence": null
+  },
+  {
+    "text": " code.",
+    "startMs": 18100,
+    "endMs": 19691,
+    "timestampMs": 18895,
+    "confidence": null
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "text": "Faster",
+    "startMs": 3100,
+    "endMs": 3440,
+    "timestampMs": 3270,
+    "confidence": null
+  },
+  {
+    "text": " bundling.",
+    "startMs": 3440,
+    "endMs": 4560,
+    "timestampMs": 4000,
+    "confidence": null
+  },
+  {
+    "text": " You",
+    "startMs": 4720,
+    "endMs": 4900,
+    "timestampMs": 4810,
+    "confidence": null
+  },
+  {
+    "text": " can",
+    "startMs": 4900,
+    "endMs": 5120,
+    "timestampMs": 5010,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 5120,
+    "endMs": 5380,
+    "timestampMs": 5250,
+    "confidence": null
+  },
+  {
+    "text": " opt",
+    "startMs": 5380,
+    "endMs": 5680,
+    "timestampMs": 5530,
+    "confidence": null
+  },
+  {
+    "text": " into",
+    "startMs": 5680,
+    "endMs": 5920,
+    "timestampMs": 5800,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 5920,
+    "endMs": 6340,
+    "timestampMs": 6130,
+    "confidence": null
+  },
+  {
+    "text": " RSPack",
+    "startMs": 6340,
+    "endMs": 7600,
+    "timestampMs": 6970,
+    "confidence": null
+  },
+  {
+    "text": " experiment",
+    "startMs": 7600,
+    "endMs": 8140,
+    "timestampMs": 7870,
+    "confidence": null
+  },
+  {
+    "text": " which",
+    "startMs": 8140,
+    "endMs": 8420,
+    "timestampMs": 8280,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 8420,
+    "endMs": 8640,
+    "timestampMs": 8530,
+    "confidence": null
+  },
+  {
+    "text": " has",
+    "startMs": 8640,
+    "endMs": 9040,
+    "timestampMs": 8840,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 9040,
+    "endMs": 9520,
+    "timestampMs": 9280,
+    "confidence": null
+  },
+  {
+    "text": " purpose.",
+    "startMs": 9520,
+    "endMs": 9920,
+    "timestampMs": 9720,
+    "confidence": null
+  },
+  {
+    "text": " To",
+    "startMs": 10300,
+    "endMs": 10560,
+    "timestampMs": 10430,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 10560,
+    "endMs": 10860,
+    "timestampMs": 10710,
+    "confidence": null
+  },
+  {
+    "text": " things",
+    "startMs": 10860,
+    "endMs": 11400,
+    "timestampMs": 11130,
+    "confidence": null
+  },
+  {
+    "text": " faster.",
+    "startMs": 11400,
+    "endMs": 12080,
+    "timestampMs": 11740,
+    "confidence": null
+  },
+  {
+    "text": " When",
+    "startMs": 12320,
+    "endMs": 12720,
+    "timestampMs": 12520,
+    "confidence": null
+  },
+  {
+    "text": " rendering",
+    "startMs": 12720,
+    "endMs": 13040,
+    "timestampMs": 12880,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 13040,
+    "endMs": 13420,
+    "timestampMs": 13230,
+    "confidence": null
+  },
+  {
+    "text": " video",
+    "startMs": 13420,
+    "endMs": 13820,
+    "timestampMs": 13620,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 13820,
+    "endMs": 14020,
+    "timestampMs": 13920,
+    "confidence": null
+  },
+  {
+    "text": " bundling",
+    "startMs": 14020,
+    "endMs": 14580,
+    "timestampMs": 14300,
+    "confidence": null
+  },
+  {
+    "text": " stage",
+    "startMs": 14580,
+    "endMs": 14880,
+    "timestampMs": 14730,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 14880,
+    "endMs": 15100,
+    "timestampMs": 14990,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 15100,
+    "endMs": 15400,
+    "timestampMs": 15250,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 15400,
+    "endMs": 15800,
+    "timestampMs": 15600,
+    "confidence": null
+  },
+  {
+    "text": " twice",
+    "startMs": 15800,
+    "endMs": 16200,
+    "timestampMs": 16000,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 16200,
+    "endMs": 16680,
+    "timestampMs": 16440,
+    "confidence": null
+  },
+  {
+    "text": " fast",
+    "startMs": 16680,
+    "endMs": 17000,
+    "timestampMs": 16840,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 17340,
+    "endMs": 17820,
+    "timestampMs": 17580,
+    "confidence": null
+  },
+  {
+    "text": " changes",
+    "startMs": 17820,
+    "endMs": 18320,
+    "timestampMs": 18070,
+    "confidence": null
+  },
+  {
+    "text": " made",
+    "startMs": 18320,
+    "endMs": 18540,
+    "timestampMs": 18430,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 18540,
+    "endMs": 18700,
+    "timestampMs": 18620,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 18700,
+    "endMs": 19100,
+    "timestampMs": 18900,
+    "confidence": null
+  },
+  {
+    "text": " code",
+    "startMs": 19100,
+    "endMs": 19820,
+    "timestampMs": 19460,
+    "confidence": null
+  },
+  {
+    "text": " will",
+    "startMs": 19820,
+    "endMs": 19980,
+    "timestampMs": 19900,
+    "confidence": null
+  },
+  {
+    "text": " be",
+    "startMs": 19980,
+    "endMs": 20520,
+    "timestampMs": 20250,
+    "confidence": null
+  },
+  {
+    "text": " reflected",
+    "startMs": 20520,
+    "endMs": 20920,
+    "timestampMs": 20720,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 20920,
+    "endMs": 21160,
+    "timestampMs": 21040,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 21160,
+    "endMs": 21420,
+    "timestampMs": 21290,
+    "confidence": null
+  },
+  {
+    "text": " canvas",
+    "startMs": 21420,
+    "endMs": 21940,
+    "timestampMs": 21680,
+    "confidence": null
+  },
+  {
+    "text": " much",
+    "startMs": 21940,
+    "endMs": 22480,
+    "timestampMs": 22210,
+    "confidence": null
+  },
+  {
+    "text": " faster.",
+    "startMs": 22480,
+    "endMs": 23000,
+    "timestampMs": 22740,
+    "confidence": null
+  },
+  {
+    "text": " You",
+    "startMs": 23440,
+    "endMs": 23680,
+    "timestampMs": 23560,
+    "confidence": null
+  },
+  {
+    "text": " can",
+    "startMs": 23680,
+    "endMs": 23920,
+    "timestampMs": 23800,
+    "confidence": null
+  },
+  {
+    "text": " opt",
+    "startMs": 23920,
+    "endMs": 24360,
+    "timestampMs": 24140,
+    "confidence": null
+  },
+  {
+    "text": " into",
+    "startMs": 24360,
+    "endMs": 24640,
+    "timestampMs": 24500,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 24640,
+    "endMs": 25080,
+    "timestampMs": 24860,
+    "confidence": null
+  },
+  {
+    "text": " today",
+    "startMs": 25100,
+    "endMs": 25440,
+    "timestampMs": 25270,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 25440,
+    "endMs": 25580,
+    "timestampMs": 25510,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 25580,
+    "endMs": 25740,
+    "timestampMs": 25660,
+    "confidence": null
+  },
+  {
+    "text": " will",
+    "startMs": 25740,
+    "endMs": 25880,
+    "timestampMs": 25810,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 25920,
+    "endMs": 25920,
+    "timestampMs": 25920,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 26100,
+    "endMs": 26280,
+    "timestampMs": 26190,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 26280,
+    "endMs": 26700,
+    "timestampMs": 26490,
+    "confidence": null
+  },
+  {
+    "text": " default",
+    "startMs": 26700,
+    "endMs": 26940,
+    "timestampMs": 26820,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 26940,
+    "endMs": 27080,
+    "timestampMs": 27010,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 27080,
+    "endMs": 27360,
+    "timestampMs": 27220,
+    "confidence": null
+  },
+  {
+    "text": " future",
+    "startMs": 27360,
+    "endMs": 27720,
+    "timestampMs": 27540,
+    "confidence": null
+  },
+  {
+    "text": " version",
+    "startMs": 27720,
+    "endMs": 27960,
+    "timestampMs": 27840,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 27960,
+    "endMs": 28160,
+    "timestampMs": 28060,
+    "confidence": null
+  },
+  {
+    "text": " Remotion.",
+    "startMs": 28160,
+    "endMs": 30059,
+    "timestampMs": 29109,
+    "confidence": null
+  }
+]

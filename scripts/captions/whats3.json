@@ -1,0 +1,723 @@
+[
+  {
+    "text": "Sound",
+    "startMs": 3620,
+    "endMs": 3940,
+    "timestampMs": 3780,
+    "confidence": null
+  },
+  {
+    "text": " effects.",
+    "startMs": 3940,
+    "endMs": 5240,
+    "timestampMs": 4590,
+    "confidence": null
+  },
+  {
+    "text": " Unfortunately,",
+    "startMs": 5240,
+    "endMs": 5560,
+    "timestampMs": 5400,
+    "confidence": null
+  },
+  {
+    "text": " AI",
+    "startMs": 5860,
+    "endMs": 6220,
+    "timestampMs": 6040,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 6220,
+    "endMs": 6460,
+    "timestampMs": 6340,
+    "confidence": null
+  },
+  {
+    "text": " pretty",
+    "startMs": 6460,
+    "endMs": 6720,
+    "timestampMs": 6590,
+    "confidence": null
+  },
+  {
+    "text": " bad",
+    "startMs": 6720,
+    "endMs": 6940,
+    "timestampMs": 6830,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 6940,
+    "endMs": 7320,
+    "timestampMs": 7130,
+    "confidence": null
+  },
+  {
+    "text": " finding",
+    "startMs": 7320,
+    "endMs": 7640,
+    "timestampMs": 7480,
+    "confidence": null
+  },
+  {
+    "text": " them",
+    "startMs": 7640,
+    "endMs": 8080,
+    "timestampMs": 7860,
+    "confidence": null
+  },
+  {
+    "text": " online,",
+    "startMs": 8080,
+    "endMs": 8500,
+    "timestampMs": 8290,
+    "confidence": null
+  },
+  {
+    "text": " so",
+    "startMs": 8860,
+    "endMs": 9420,
+    "timestampMs": 9140,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 9420,
+    "endMs": 9540,
+    "timestampMs": 9480,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 9540,
+    "endMs": 9900,
+    "timestampMs": 9720,
+    "confidence": null
+  },
+  {
+    "text": " making",
+    "startMs": 9900,
+    "endMs": 10220,
+    "timestampMs": 10060,
+    "confidence": null
+  },
+  {
+    "text": " our",
+    "startMs": 10220,
+    "endMs": 10720,
+    "timestampMs": 10470,
+    "confidence": null
+  },
+  {
+    "text": " own",
+    "startMs": 10720,
+    "endMs": 11240,
+    "timestampMs": 10980,
+    "confidence": null
+  },
+  {
+    "text": " library",
+    "startMs": 11240,
+    "endMs": 11560,
+    "timestampMs": 11400,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 11560,
+    "endMs": 11820,
+    "timestampMs": 11690,
+    "confidence": null
+  },
+  {
+    "text": " sound",
+    "startMs": 11820,
+    "endMs": 12200,
+    "timestampMs": 12010,
+    "confidence": null
+  },
+  {
+    "text": " effects",
+    "startMs": 12200,
+    "endMs": 12760,
+    "timestampMs": 12480,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 12760,
+    "endMs": 13320,
+    "timestampMs": 13040,
+    "confidence": null
+  },
+  {
+    "text": " anybody",
+    "startMs": 13320,
+    "endMs": 13600,
+    "timestampMs": 13460,
+    "confidence": null
+  },
+  {
+    "text": " can",
+    "startMs": 13600,
+    "endMs": 13920,
+    "timestampMs": 13760,
+    "confidence": null
+  },
+  {
+    "text": " use",
+    "startMs": 13920,
+    "endMs": 14280,
+    "timestampMs": 14100,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 14280,
+    "endMs": 14640,
+    "timestampMs": 14460,
+    "confidence": null
+  },
+  {
+    "text": " free",
+    "startMs": 14640,
+    "endMs": 14940,
+    "timestampMs": 14790,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 14940,
+    "endMs": 15280,
+    "timestampMs": 15110,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 15280,
+    "endMs": 16060,
+    "timestampMs": 15670,
+    "confidence": null
+  },
+  {
+    "text": " attribution",
+    "startMs": 16060,
+    "endMs": 16820,
+    "timestampMs": 16440,
+    "confidence": null
+  },
+  {
+    "text": " required.",
+    "startMs": 16820,
+    "endMs": 17000,
+    "timestampMs": 16910,
+    "confidence": null
+  },
+  {
+    "text": " We",
+    "startMs": 17960,
+    "endMs": 18160,
+    "timestampMs": 18060,
+    "confidence": null
+  },
+  {
+    "text": " host",
+    "startMs": 18160,
+    "endMs": 18320,
+    "timestampMs": 18240,
+    "confidence": null
+  },
+  {
+    "text": " them",
+    "startMs": 18320,
+    "endMs": 18500,
+    "timestampMs": 18410,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 18500,
+    "endMs": 18940,
+    "timestampMs": 18720,
+    "confidence": null
+  },
+  {
+    "text": " our",
+    "startMs": 18940,
+    "endMs": 19320,
+    "timestampMs": 19130,
+    "confidence": null
+  },
+  {
+    "text": " domain,",
+    "startMs": 19320,
+    "endMs": 19540,
+    "timestampMs": 19430,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 19760,
+    "endMs": 19920,
+    "timestampMs": 19840,
+    "confidence": null
+  },
+  {
+    "text": " can",
+    "startMs": 19920,
+    "endMs": 20120,
+    "timestampMs": 20020,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 20120,
+    "endMs": 20480,
+    "timestampMs": 20300,
+    "confidence": null
+  },
+  {
+    "text": " hotlink",
+    "startMs": 20480,
+    "endMs": 20840,
+    "timestampMs": 20660,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 20840,
+    "endMs": 21040,
+    "timestampMs": 20940,
+    "confidence": null
+  },
+  {
+    "text": " sound",
+    "startMs": 21040,
+    "endMs": 21460,
+    "timestampMs": 21250,
+    "confidence": null
+  },
+  {
+    "text": " effects",
+    "startMs": 21460,
+    "endMs": 22100,
+    "timestampMs": 21780,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 22100,
+    "endMs": 22240,
+    "timestampMs": 22170,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 22240,
+    "endMs": 22600,
+    "timestampMs": 22420,
+    "confidence": null
+  },
+  {
+    "text": " also",
+    "startMs": 22600,
+    "endMs": 22880,
+    "timestampMs": 22740,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 22880,
+    "endMs": 23240,
+    "timestampMs": 23060,
+    "confidence": null
+  },
+  {
+    "text": " sure",
+    "startMs": 23200,
+    "endMs": 23720,
+    "timestampMs": 23460,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 23720,
+    "endMs": 24080,
+    "timestampMs": 23900,
+    "confidence": null
+  },
+  {
+    "text": " all",
+    "startMs": 24080,
+    "endMs": 24240,
+    "timestampMs": 24160,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 24240,
+    "endMs": 24400,
+    "timestampMs": 24320,
+    "confidence": null
+  },
+  {
+    "text": " sound",
+    "startMs": 24400,
+    "endMs": 24680,
+    "timestampMs": 24540,
+    "confidence": null
+  },
+  {
+    "text": " effects",
+    "startMs": 24680,
+    "endMs": 24900,
+    "timestampMs": 24790,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 24900,
+    "endMs": 25040,
+    "timestampMs": 24970,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 25100,
+    "endMs": 25100,
+    "timestampMs": 25100,
+    "confidence": null
+  },
+  {
+    "text": " same",
+    "startMs": 25560,
+    "endMs": 26060,
+    "timestampMs": 25810,
+    "confidence": null
+  },
+  {
+    "text": " loudness",
+    "startMs": 26060,
+    "endMs": 26980,
+    "timestampMs": 26520,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 26980,
+    "endMs": 27240,
+    "timestampMs": 27110,
+    "confidence": null
+  },
+  {
+    "text": " get",
+    "startMs": 27240,
+    "endMs": 27520,
+    "timestampMs": 27380,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 27520,
+    "endMs": 28100,
+    "timestampMs": 27810,
+    "confidence": null
+  },
+  {
+    "text": " standardized",
+    "startMs": 28100,
+    "endMs": 28640,
+    "timestampMs": 28370,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 28640,
+    "endMs": 28940,
+    "timestampMs": 28790,
+    "confidence": null
+  },
+  {
+    "text": " well.",
+    "startMs": 28940,
+    "endMs": 29720,
+    "timestampMs": 29330,
+    "confidence": null
+  },
+  {
+    "text": " For",
+    "startMs": 29980,
+    "endMs": 30280,
+    "timestampMs": 30130,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 30280,
+    "endMs": 30540,
+    "timestampMs": 30410,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 30540,
+    "endMs": 30800,
+    "timestampMs": 30670,
+    "confidence": null
+  },
+  {
+    "text": " start",
+    "startMs": 30800,
+    "endMs": 31000,
+    "timestampMs": 30900,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 31000,
+    "endMs": 31400,
+    "timestampMs": 31200,
+    "confidence": null
+  },
+  {
+    "text": " only",
+    "startMs": 31400,
+    "endMs": 31820,
+    "timestampMs": 31610,
+    "confidence": null
+  },
+  {
+    "text": " seven",
+    "startMs": 31820,
+    "endMs": 31820,
+    "timestampMs": 31820,
+    "confidence": null
+  },
+  {
+    "text": " sound",
+    "startMs": 32100,
+    "endMs": 32400,
+    "timestampMs": 32250,
+    "confidence": null
+  },
+  {
+    "text": " effects",
+    "startMs": 32400,
+    "endMs": 32680,
+    "timestampMs": 32540,
+    "confidence": null
+  },
+  {
+    "text": " but",
+    "startMs": 32680,
+    "endMs": 32860,
+    "timestampMs": 32770,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 32860,
+    "endMs": 33080,
+    "timestampMs": 32970,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 33080,
+    "endMs": 33400,
+    "timestampMs": 33240,
+    "confidence": null
+  },
+  {
+    "text": " looking",
+    "startMs": 33400,
+    "endMs": 33680,
+    "timestampMs": 33540,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 33680,
+    "endMs": 34060,
+    "timestampMs": 33870,
+    "confidence": null
+  },
+  {
+    "text": " add",
+    "startMs": 34060,
+    "endMs": 34440,
+    "timestampMs": 34250,
+    "confidence": null
+  },
+  {
+    "text": " more",
+    "startMs": 34440,
+    "endMs": 35040,
+    "timestampMs": 34740,
+    "confidence": null
+  },
+  {
+    "text": " so",
+    "startMs": 35040,
+    "endMs": 35500,
+    "timestampMs": 35270,
+    "confidence": null
+  },
+  {
+    "text": " if",
+    "startMs": 35500,
+    "endMs": 35900,
+    "timestampMs": 35700,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 35900,
+    "endMs": 36600,
+    "timestampMs": 36250,
+    "confidence": null
+  },
+  {
+    "text": " know",
+    "startMs": 36600,
+    "endMs": 36960,
+    "timestampMs": 36780,
+    "confidence": null
+  },
+  {
+    "text": " how",
+    "startMs": 36960,
+    "endMs": 37220,
+    "timestampMs": 37090,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 37220,
+    "endMs": 37520,
+    "timestampMs": 37370,
+    "confidence": null
+  },
+  {
+    "text": " source",
+    "startMs": 37520,
+    "endMs": 38080,
+    "timestampMs": 37800,
+    "confidence": null
+  },
+  {
+    "text": " good",
+    "startMs": 38160,
+    "endMs": 38480,
+    "timestampMs": 38320,
+    "confidence": null
+  },
+  {
+    "text": " sound",
+    "startMs": 38800,
+    "endMs": 39300,
+    "timestampMs": 39050,
+    "confidence": null
+  },
+  {
+    "text": " effects",
+    "startMs": 39300,
+    "endMs": 39960,
+    "timestampMs": 39630,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 39960,
+    "endMs": 40140,
+    "timestampMs": 40050,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 40140,
+    "endMs": 40320,
+    "timestampMs": 40230,
+    "confidence": null
+  },
+  {
+    "text": " can",
+    "startMs": 40320,
+    "endMs": 40540,
+    "timestampMs": 40430,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 40540,
+    "endMs": 40900,
+    "timestampMs": 40720,
+    "confidence": null
+  },
+  {
+    "text": " freely",
+    "startMs": 40900,
+    "endMs": 41400,
+    "timestampMs": 41150,
+    "confidence": null
+  },
+  {
+    "text": " available",
+    "startMs": 41400,
+    "endMs": 41640,
+    "timestampMs": 41520,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 41640,
+    "endMs": 42060,
+    "timestampMs": 41850,
+    "confidence": null
+  },
+  {
+    "text": " anybody",
+    "startMs": 42060,
+    "endMs": 42800,
+    "timestampMs": 42430,
+    "confidence": null
+  },
+  {
+    "text": " then",
+    "startMs": 42800,
+    "endMs": 43140,
+    "timestampMs": 42970,
+    "confidence": null
+  },
+  {
+    "text": " please",
+    "startMs": 43140,
+    "endMs": 43480,
+    "timestampMs": 43310,
+    "confidence": null
+  },
+  {
+    "text": " let",
+    "startMs": 43480,
+    "endMs": 43480,
+    "timestampMs": 43480,
+    "confidence": null
+  },
+  {
+    "text": " us",
+    "startMs": 43600,
+    "endMs": 43840,
+    "timestampMs": 43720,
+    "confidence": null
+  },
+  {
+    "text": " know.",
+    "startMs": 43840,
+    "endMs": 45525,
+    "timestampMs": 44683,
+    "confidence": null
+  }
+]

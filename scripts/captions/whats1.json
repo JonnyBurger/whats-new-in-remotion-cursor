@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Here",
+    "startMs": 1440,
+    "endMs": 1640,
+    "timestampMs": 1540,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 1640,
+    "endMs": 1840,
+    "timestampMs": 1740,
+    "confidence": null
+  },
+  {
+    "text": " some",
+    "startMs": 1840,
+    "endMs": 1980,
+    "timestampMs": 1910,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 1980,
+    "endMs": 2120,
+    "timestampMs": 2050,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2120,
+    "endMs": 2320,
+    "timestampMs": 2220,
+    "confidence": null
+  },
+  {
+    "text": " things",
+    "startMs": 2320,
+    "endMs": 2520,
+    "timestampMs": 2420,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 2520,
+    "endMs": 2680,
+    "timestampMs": 2600,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 2680,
+    "endMs": 3140,
+    "timestampMs": 2910,
+    "confidence": null
+  },
+  {
+    "text": " recently",
+    "startMs": 3140,
+    "endMs": 3660,
+    "timestampMs": 3400,
+    "confidence": null
+  },
+  {
+    "text": " improved",
+    "startMs": 3660,
+    "endMs": 3920,
+    "timestampMs": 3790,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 3920,
+    "endMs": 4160,
+    "timestampMs": 4040,
+    "confidence": null
+  },
+  {
+    "text": " Remotion.",
+    "startMs": 4160,
+    "endMs": 5000,
+    "timestampMs": 4580,
+    "confidence": null
+  }
+]

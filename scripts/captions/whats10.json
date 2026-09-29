@@ -1,0 +1,233 @@
+[
+  {
+    "text": "We",
+    "startMs": 2000,
+    "endMs": 2240,
+    "timestampMs": 2120,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 2240,
+    "endMs": 2420,
+    "timestampMs": 2330,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 2420,
+    "endMs": 2920,
+    "timestampMs": 2670,
+    "confidence": null
+  },
+  {
+    "text": " prototyping",
+    "startMs": 2920,
+    "endMs": 3380,
+    "timestampMs": 3150,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 3380,
+    "endMs": 3780,
+    "timestampMs": 3580,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 3780,
+    "endMs": 4320,
+    "timestampMs": 4050,
+    "confidence": null
+  },
+  {
+    "text": " visual",
+    "startMs": 4320,
+    "endMs": 4920,
+    "timestampMs": 4620,
+    "confidence": null
+  },
+  {
+    "text": " mode",
+    "startMs": 4920,
+    "endMs": 5160,
+    "timestampMs": 5040,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 5160,
+    "endMs": 5320,
+    "timestampMs": 5240,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 5320,
+    "endMs": 5500,
+    "timestampMs": 5410,
+    "confidence": null
+  },
+  {
+    "text": " Remotion",
+    "startMs": 5500,
+    "endMs": 6200,
+    "timestampMs": 5850,
+    "confidence": null
+  },
+  {
+    "text": " Studio",
+    "startMs": 6200,
+    "endMs": 6900,
+    "timestampMs": 6550,
+    "confidence": null
+  },
+  {
+    "text": " which",
+    "startMs": 6900,
+    "endMs": 7100,
+    "timestampMs": 7000,
+    "confidence": null
+  },
+  {
+    "text": " will",
+    "startMs": 7100,
+    "endMs": 7320,
+    "timestampMs": 7210,
+    "confidence": null
+  },
+  {
+    "text": " allow",
+    "startMs": 7320,
+    "endMs": 7540,
+    "timestampMs": 7430,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 7540,
+    "endMs": 7720,
+    "timestampMs": 7630,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 7720,
+    "endMs": 7820,
+    "timestampMs": 7770,
+    "confidence": null
+  },
+  {
+    "text": " interactively",
+    "startMs": 8340,
+    "endMs": 9240,
+    "timestampMs": 8790,
+    "confidence": null
+  },
+  {
+    "text": " change",
+    "startMs": 9240,
+    "endMs": 10020,
+    "timestampMs": 9630,
+    "confidence": null
+  },
+  {
+    "text": " many",
+    "startMs": 10020,
+    "endMs": 10340,
+    "timestampMs": 10180,
+    "confidence": null
+  },
+  {
+    "text": " things",
+    "startMs": 10340,
+    "endMs": 10660,
+    "timestampMs": 10500,
+    "confidence": null
+  },
+  {
+    "text": " about",
+    "startMs": 10660,
+    "endMs": 10920,
+    "timestampMs": 10790,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 10920,
+    "endMs": 11320,
+    "timestampMs": 11120,
+    "confidence": null
+  },
+  {
+    "text": " video",
+    "startMs": 11320,
+    "endMs": 11900,
+    "timestampMs": 11610,
+    "confidence": null
+  },
+  {
+    "text": " while",
+    "startMs": 11900,
+    "endMs": 12140,
+    "timestampMs": 12020,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 12140,
+    "endMs": 12580,
+    "timestampMs": 12360,
+    "confidence": null
+  },
+  {
+    "text": " writing",
+    "startMs": 12580,
+    "endMs": 13060,
+    "timestampMs": 12820,
+    "confidence": null
+  },
+  {
+    "text": " everything",
+    "startMs": 13060,
+    "endMs": 13700,
+    "timestampMs": 13380,
+    "confidence": null
+  },
+  {
+    "text": " back",
+    "startMs": 13700,
+    "endMs": 13700,
+    "timestampMs": 13700,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 14440,
+    "endMs": 14900,
+    "timestampMs": 14670,
+    "confidence": null
+  },
+  {
+    "text": " regular",
+    "startMs": 14900,
+    "endMs": 15420,
+    "timestampMs": 15160,
+    "confidence": null
+  },
+  {
+    "text": " React",
+    "startMs": 15420,
+    "endMs": 15820,
+    "timestampMs": 15620,
+    "confidence": null
+  },
+  {
+    "text": " code.",
+    "startMs": 15820,
+    "endMs": 15900,
+    "timestampMs": 15860,
+    "confidence": null
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "text": "Render",
+    "startMs": 2600,
+    "endMs": 2960,
+    "timestampMs": 2780,
+    "confidence": null
+  },
+  {
+    "text": " videos",
+    "startMs": 2960,
+    "endMs": 3340,
+    "timestampMs": 3150,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 3340,
+    "endMs": 3580,
+    "timestampMs": 3460,
+    "confidence": null
+  },
+  {
+    "text": " Vercel.",
+    "startMs": 3580,
+    "endMs": 4000,
+    "timestampMs": 3790,
+    "confidence": null
+  },
+  {
+    "text": " We",
+    "startMs": 4680,
+    "endMs": 4900,
+    "timestampMs": 4790,
+    "confidence": null
+  },
+  {
+    "text": " work",
+    "startMs": 4900,
+    "endMs": 5240,
+    "timestampMs": 5070,
+    "confidence": null
+  },
+  {
+    "text": " together",
+    "startMs": 5240,
+    "endMs": 5620,
+    "timestampMs": 5430,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 5620,
+    "endMs": 6060,
+    "timestampMs": 5840,
+    "confidence": null
+  },
+  {
+    "text": " Vercel",
+    "startMs": 6060,
+    "endMs": 6360,
+    "timestampMs": 6210,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 6360,
+    "endMs": 6660,
+    "timestampMs": 6510,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 6660,
+    "endMs": 7100,
+    "timestampMs": 6880,
+    "confidence": null
+  },
+  {
+    "text": " rendering",
+    "startMs": 7100,
+    "endMs": 7340,
+    "timestampMs": 7220,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 7340,
+    "endMs": 7560,
+    "timestampMs": 7450,
+    "confidence": null
+  },
+  {
+    "text": " their",
+    "startMs": 7560,
+    "endMs": 8120,
+    "timestampMs": 7840,
+    "confidence": null
+  },
+  {
+    "text": " platform",
+    "startMs": 8120,
+    "endMs": 8920,
+    "timestampMs": 8520,
+    "confidence": null
+  },
+  {
+    "text": " possible",
+    "startMs": 8920,
+    "endMs": 9520,
+    "timestampMs": 9220,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 9520,
+    "endMs": 9960,
+    "timestampMs": 9740,
+    "confidence": null
+  },
+  {
+    "text": " super",
+    "startMs": 9960,
+    "endMs": 10300,
+    "timestampMs": 10130,
+    "confidence": null
+  },
+  {
+    "text": " smooth.",
+    "startMs": 10300,
+    "endMs": 10840,
+    "timestampMs": 10570,
+    "confidence": null
+  },
+  {
+    "text": " There's",
+    "startMs": 11120,
+    "endMs": 11240,
+    "timestampMs": 11180,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 11240,
+    "endMs": 11380,
+    "timestampMs": 11310,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 11380,
+    "endMs": 11720,
+    "timestampMs": 11550,
+    "confidence": null
+  },
+  {
+    "text": " package",
+    "startMs": 11720,
+    "endMs": 12220,
+    "timestampMs": 11970,
+    "confidence": null
+  },
+  {
+    "text": " called",
+    "startMs": 12220,
+    "endMs": 12680,
+    "timestampMs": 12450,
+    "confidence": null
+  },
+  {
+    "text": " Remotion",
+    "startMs": 12680,
+    "endMs": 13240,
+    "timestampMs": 12960,
+    "confidence": null
+  },
+  {
+    "text": " Vercel",
+    "startMs": 13240,
+    "endMs": 13720,
+    "timestampMs": 13480,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 13720,
+    "endMs": 13980,
+    "timestampMs": 13850,
+    "confidence": null
+  },
+  {
+    "text": " allows",
+    "startMs": 13980,
+    "endMs": 14140,
+    "timestampMs": 14060,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 14140,
+    "endMs": 14300,
+    "timestampMs": 14220,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 14300,
+    "endMs": 14700,
+    "timestampMs": 14500,
+    "confidence": null
+  },
+  {
+    "text": " create",
+    "startMs": 14700,
+    "endMs": 15480,
+    "timestampMs": 15090,
+    "confidence": null
+  },
+  {
+    "text": " Remotion",
+    "startMs": 15480,
+    "endMs": 16140,
+    "timestampMs": 15810,
+    "confidence": null
+  },
+  {
+    "text": " rendering",
+    "startMs": 16140,
+    "endMs": 16880,
+    "timestampMs": 16510,
+    "confidence": null
+  },
+  {
+    "text": " instances",
+    "startMs": 16880,
+    "endMs": 17000,
+    "timestampMs": 16940,
+    "confidence": null
+  },
+  {
+    "text": " using",
+    "startMs": 17440,
+    "endMs": 17940,
+    "timestampMs": 17690,
+    "confidence": null
+  },
+  {
+    "text": " Vercel",
+    "startMs": 17940,
+    "endMs": 18900,
+    "timestampMs": 18420,
+    "confidence": null
+  },
+  {
+    "text": " sandbox",
+    "startMs": 18900,
+    "endMs": 19700,
+    "timestampMs": 19300,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 19700,
+    "endMs": 20040,
+    "timestampMs": 19870,
+    "confidence": null
+  },
+  {
+    "text": " also",
+    "startMs": 20040,
+    "endMs": 20240,
+    "timestampMs": 20140,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 20240,
+    "endMs": 20480,
+    "timestampMs": 20360,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 20480,
+    "endMs": 20840,
+    "timestampMs": 20660,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 20840,
+    "endMs": 21280,
+    "timestampMs": 21060,
+    "confidence": null
+  },
+  {
+    "text": " starter",
+    "startMs": 21280,
+    "endMs": 21820,
+    "timestampMs": 21550,
+    "confidence": null
+  },
+  {
+    "text": " template",
+    "startMs": 21820,
+    "endMs": 22520,
+    "timestampMs": 22170,
+    "confidence": null
+  },
+  {
+    "text": " where",
+    "startMs": 22520,
+    "endMs": 23040,
+    "timestampMs": 22780,
+    "confidence": null
+  },
+  {
+    "text": " everything",
+    "startMs": 23040,
+    "endMs": 23440,
+    "timestampMs": 23240,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 23440,
+    "endMs": 23560,
+    "timestampMs": 23500,
+    "confidence": null
+  },
+  {
+    "text": " set",
+    "startMs": 23560,
+    "endMs": 23840,
+    "timestampMs": 23700,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 23840,
+    "endMs": 24300,
+    "timestampMs": 24070,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 24300,
+    "endMs": 24440,
+    "timestampMs": 24370,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 24440,
+    "endMs": 24580,
+    "timestampMs": 24510,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 24580,
+    "endMs": 24800,
+    "timestampMs": 24690,
+    "confidence": null
+  },
+  {
+    "text": " box.",
+    "startMs": 24800,
+    "endMs": 25160,
+    "timestampMs": 24980,
+    "confidence": null
+  },
+  {
+    "text": " This",
+    "startMs": 25620,
+    "endMs": 25720,
+    "timestampMs": 25670,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 25720,
+    "endMs": 26000,
+    "timestampMs": 25860,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 26000,
+    "endMs": 26300,
+    "timestampMs": 26150,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 26300,
+    "endMs": 26720,
+    "timestampMs": 26510,
+    "confidence": null
+  },
+  {
+    "text": " first",
+    "startMs": 26720,
+    "endMs": 26920,
+    "timestampMs": 26820,
+    "confidence": null
+  },
+  {
+    "text": "-class",
+    "startMs": 26920,
+    "endMs": 27220,
+    "timestampMs": 27070,
+    "confidence": null
+  },
+  {
+    "text": " server",
+    "startMs": 27660,
+    "endMs": 27880,
+    "timestampMs": 27770,
+    "confidence": null
+  },
+  {
+    "text": "-side",
+    "startMs": 27880,
+    "endMs": 28580,
+    "timestampMs": 28230,
+    "confidence": null
+  },
+  {
+    "text": " rendering",
+    "startMs": 28580,
+    "endMs": 29320,
+    "timestampMs": 28950,
+    "confidence": null
+  },
+  {
+    "text": " solution",
+    "startMs": 29320,
+    "endMs": 29920,
+    "timestampMs": 29620,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 29920,
+    "endMs": 30420,
+    "timestampMs": 30170,
+    "confidence": null
+  },
+  {
+    "text": " Remotion",
+    "startMs": 30420,
+    "endMs": 32180,
+    "timestampMs": 31300,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 32180,
+    "endMs": 32420,
+    "timestampMs": 32300,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 32420,
+    "endMs": 32580,
+    "timestampMs": 32500,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 32580,
+    "endMs": 32760,
+    "timestampMs": 32670,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 32760,
+    "endMs": 32880,
+    "timestampMs": 32820,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 32880,
+    "endMs": 33140,
+    "timestampMs": 33010,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 33140,
+    "endMs": 33520,
+    "timestampMs": 33330,
+    "confidence": null
+  },
+  {
+    "text": " easiest",
+    "startMs": 33520,
+    "endMs": 33800,
+    "timestampMs": 33660,
+    "confidence": null
+  },
+  {
+    "text": " way",
+    "startMs": 33800,
+    "endMs": 33980,
+    "timestampMs": 33890,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 33980,
+    "endMs": 34180,
+    "timestampMs": 34080,
+    "confidence": null
+  },
+  {
+    "text": " set",
+    "startMs": 34180,
+    "endMs": 34200,
+    "timestampMs": 34190,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 34360,
+    "endMs": 34360,
+    "timestampMs": 34360,
+    "confidence": null
+  },
+  {
+    "text": " server",
+    "startMs": 34600,
+    "endMs": 34840,
+    "timestampMs": 34720,
+    "confidence": null
+  },
+  {
+    "text": "-side",
+    "startMs": 34840,
+    "endMs": 35780,
+    "timestampMs": 35310,
+    "confidence": null
+  },
+  {
+    "text": " rendering.",
+    "startMs": 35780,
+    "endMs": 36180,
+    "timestampMs": 35980,
+    "confidence": null
+  },
+  {
+    "text": " A",
+    "startMs": 36360,
+    "endMs": 36620,
+    "timestampMs": 36490,
+    "confidence": null
+  },
+  {
+    "text": " small",
+    "startMs": 36620,
+    "endMs": 36920,
+    "timestampMs": 36770,
+    "confidence": null
+  },
+  {
+    "text": " tutorial",
+    "startMs": 36920,
+    "endMs": 37260,
+    "timestampMs": 37090,
+    "confidence": null
+  },
+  {
+    "text": " about",
+    "startMs": 37260,
+    "endMs": 37620,
+    "timestampMs": 37440,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 37620,
+    "endMs": 37840,
+    "timestampMs": 37730,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 37840,
+    "endMs": 38100,
+    "timestampMs": 37970,
+    "confidence": null
+  },
+  {
+    "text": " coming",
+    "startMs": 38100,
+    "endMs": 38400,
+    "timestampMs": 38250,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 38400,
+    "endMs": 38840,
+    "timestampMs": 38620,
+    "confidence": null
+  },
+  {
+    "text": " soon.",
+    "startMs": 38860,
+    "endMs": 40405,
+    "timestampMs": 39633,
+    "confidence": null
+  }
+]
