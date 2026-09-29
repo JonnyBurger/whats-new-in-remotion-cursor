@@ -8,3 +8,4 @@ out
 
 # Static Studio bundle (npx remotion bundle)
 build
+.vercel
